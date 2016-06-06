@@ -1,3 +1,4 @@
 - http://jster.net/
 - http://jswiki.org/
 - https://tinypng.com/
+- http://html5please.com/
