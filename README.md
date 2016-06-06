@@ -1,2 +1,2 @@
--http://jster.net/
--http://jswiki.org/
+- http://jster.net/
+- http://jswiki.org/
