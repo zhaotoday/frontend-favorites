@@ -8,3 +8,4 @@
 - http://ruanyf.github.io/es-checker/index.cn.html
 - http://devdocs.io/
 - http://overapi.com/
+- http://html5ify.com/fks/fks_chart/
