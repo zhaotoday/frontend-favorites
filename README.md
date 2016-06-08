@@ -9,3 +9,4 @@
 - http://devdocs.io/
 - http://overapi.com/
 - http://html5ify.com/fks/fks_chart/
+- http://browserhacks.com/
