@@ -12,3 +12,5 @@
 - http://browserhacks.com/
 - http://codeguide.co/
 - http://bonsaiden.github.io/JavaScript-Garden/zh/
+- http://my-mind.github.io/
+- http://naotu.baidu.com/
