@@ -17,3 +17,6 @@
 - http://uxco.re/
 - https://developer.mozilla.org/zh-CN/
 - http://html5demos.com/
+- https://google.github.io/styleguide/javascriptguide.xml
+- https://google.github.io/styleguide/htmlcssguide.xml
+- https://google.github.io/styleguide/jsoncstyleguide.xml
