@@ -20,3 +20,4 @@
 - https://google.github.io/styleguide/javascriptguide.xml
 - https://google.github.io/styleguide/htmlcssguide.xml
 - https://google.github.io/styleguide/jsoncstyleguide.xml
+- http://xianbai.me/learn-md/
