@@ -23,3 +23,4 @@
 - http://xianbai.me/learn-md/
 - http://justjavac.com/
 - http://div.io/
+- http://www.infoq.com/cn/es6-in-depth/
