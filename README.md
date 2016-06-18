@@ -26,3 +26,4 @@
 - http://www.infoq.com/cn/es6-in-depth/
 - http://www.w3help.org/zh-cn/kb/
 - http://microjs.com/
+- http://ireact.cn/
