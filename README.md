@@ -32,3 +32,4 @@
 - https://developers.whatwg.org/
 - https://design.google.com/devices/
 - http://html5doctor.com/
+- http://mydevice.io/devices/
