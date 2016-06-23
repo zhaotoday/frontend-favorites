@@ -1,3 +1,4 @@
+- http://easings.net/zh-cn
 - https://plainjs.com/
 - http://jster.net/
 - http://jswiki.org/
