@@ -1,3 +1,6 @@
+- http://mediaqueri.es/
+- https://chinesefontdesign.com/tag/traditional-chinese-font
+- http://fontawesome.io/
 - http://css3pie.com/
 - http://easings.net/zh-cn
 - https://plainjs.com/
