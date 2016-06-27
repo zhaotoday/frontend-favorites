@@ -1,3 +1,4 @@
+- http://www.jqwidgets.com/jquery-widgets-demo/
 - http://www.w3school.com.cn/
 - http://mediaqueri.es/
 - https://chinesefontdesign.com/tag/traditional-chinese-font
