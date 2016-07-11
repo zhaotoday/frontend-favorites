@@ -1,3 +1,4 @@
+- https://jex.im/regulex/
 - https://regexper.com/
 - https://leohxj.gitbooks.io/front-end-database/content/
 - http://whycss.com/
