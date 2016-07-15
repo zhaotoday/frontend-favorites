@@ -1,3 +1,4 @@
+- https://bjango.com/articles/min-device-pixel-ratio/
 - http://www.appinn.com/
 - https://coggle.it/
 - https://www.debuggex.com/
