@@ -1,3 +1,4 @@
+- http://lab.maltewassermann.com/viewport-resizer/
 - http://ued.ctrip.com/webkitcss/index.html
 - http://nmsdvid.com/snippets/
 - http://tools.css3.info/selectors-test/test.html
