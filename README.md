@@ -1,3 +1,4 @@
+- https://browserdiet.com/zh/
 - http://smartmockups.com/
 - http://colorsafe.co/
 - http://css3lib.alloyteam.com/
