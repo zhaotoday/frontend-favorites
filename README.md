@@ -1,3 +1,4 @@
+- http://youmightnotneedjquery.com/
 - https://uptodate.frontendrescue.org/
 - http://css3please.com/
 - http://html5index.org/
