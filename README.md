@@ -1,3 +1,4 @@
+- http://regexr.com/
 - http://youmightnotneedjquery.com/
 - https://uptodate.frontendrescue.org/
 - http://css3please.com/
