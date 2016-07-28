@@ -1,3 +1,4 @@
+- http://vim.rtorr.com/lang/zh_cn/
 - http://reactcheatsheet.com/
 - https://trello.com/
 - http://codepen.io/pen/
