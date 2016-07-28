@@ -1,3 +1,4 @@
+- http://hao.shejidaren.com/
 - http://findicons.com/
 - http://www.youziku.com/
 - http://screensiz.es/phone
