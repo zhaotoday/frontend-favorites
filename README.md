@@ -1,3 +1,4 @@
+- http://styleguides.io/examples.html
 - http://www.epub360.com/
 - https://dribbble.com/
 - http://www.ui.cn/
