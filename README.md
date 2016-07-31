@@ -1,3 +1,4 @@
+- https://www.awesomes.cn/repos/Applications
 - http://styleguides.io/examples.html
 - http://www.epub360.com/
 - https://dribbble.com/
