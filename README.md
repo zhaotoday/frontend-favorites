@@ -1,3 +1,4 @@
+- http://zhitu.isux.us/
 - http://www.51index.cn/
 - http://html5test.com/
 - https://frontend.directory/p
