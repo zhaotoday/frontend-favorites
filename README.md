@@ -1,3 +1,4 @@
+- http://html5test.com/
 - https://frontend.directory/p
 - https://compressor.io/
 - https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan/
