@@ -1,3 +1,4 @@
+- https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan/
 - https://www.awesomes.cn/repos/Applications
 - http://styleguides.io/examples.html
 - http://www.epub360.com/
