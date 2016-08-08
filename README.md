@@ -1,3 +1,4 @@
+- https://imageoptim.com/mozjpeg
 - http://www.javascriptoo.com/
 - http://zhitu.isux.us/
 - http://www.51index.cn/
