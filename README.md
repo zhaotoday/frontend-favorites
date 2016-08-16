@@ -1,3 +1,4 @@
+- https://deviceatlas.com/device-data/devices
 - http://whois-api.domaininformation.de/
 - https://www.mashape.com/
 - http://www.dowebok.com/
