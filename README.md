@@ -1,3 +1,4 @@
+- http://jquerypp.com/
 - https://deviceatlas.com/device-data/devices
 - http://whois-api.domaininformation.de/
 - https://www.mashape.com/
