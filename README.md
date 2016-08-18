@@ -1,3 +1,4 @@
+- https://staticsitegenerators.net/
 - http://jquerypp.com/
 - https://deviceatlas.com/device-data/devices
 - http://whois-api.domaininformation.de/
