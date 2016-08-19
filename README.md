@@ -1,3 +1,4 @@
+- https://slides.com/
 - https://www.pingxx.com/
 - https://leancloud.cn/
 - https://www.daocloud.io/
