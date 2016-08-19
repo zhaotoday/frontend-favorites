@@ -1,3 +1,4 @@
+- https://git.oschina.net/
 - https://staticsitegenerators.net/
 - http://jquerypp.com/
 - https://deviceatlas.com/device-data/devices
