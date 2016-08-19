@@ -1,3 +1,4 @@
+- https://leancloud.cn/
 - https://www.daocloud.io/
 - https://git.oschina.net/
 - https://staticsitegenerators.net/
