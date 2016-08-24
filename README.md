@@ -1,3 +1,4 @@
+- http://www.dustindiaz.com/css-shorthand/
 - http://e.xitu.io/
 - https://slides.com/
 - https://www.pingxx.com/
