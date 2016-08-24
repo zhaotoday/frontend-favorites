@@ -1,3 +1,4 @@
+- https://www.cheatography.com/davechild/cheat-sheets/css2/
 - http://www.dustindiaz.com/css-shorthand/
 - http://e.xitu.io/
 - https://slides.com/
