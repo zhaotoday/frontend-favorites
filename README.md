@@ -1,3 +1,4 @@
+- http://typo.sofi.sh/
 - http://styleguide.gitbook.com/
 - http://stack.formidable.com/es6-interactive-guide/#/
 - http://fmbip.com/
