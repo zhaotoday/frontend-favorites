@@ -1,3 +1,4 @@
+- http://zhibimo.com/read/Ashu/front-end-style-guide/index.html
 - http://aaaaaashu.me/shu/
 - http://typo.sofi.sh/
 - http://styleguide.gitbook.com/
