@@ -1,3 +1,4 @@
+- https://dwqs.gitbooks.io/frontenddevhandbook/content/
 - http://hife.club/editor.md/
 - http://www.javascripting.com/
 - http://wulijun.github.io/php-the-right-way/
