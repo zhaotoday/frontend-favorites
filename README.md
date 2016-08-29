@@ -1,3 +1,4 @@
+- http://hife.club/editor.md/
 - http://www.javascripting.com/
 - http://wulijun.github.io/php-the-right-way/
 - http://zhibimo.com/read/Ashu/front-end-style-guide/index.html
