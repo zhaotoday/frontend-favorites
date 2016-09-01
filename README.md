@@ -1,4 +1,5 @@
-- https://www.debuggex.com/cheatsheet/regex/javascript
+- http://docs.emmet.io/cheat-sheet/
+- () https://www.debuggex.com/cheatsheet/regex/javascript
 - http://fontfamily.io/
 - http://apps.workflower.fi/vocabs/
 - https://developers.google.com/speed/pagespeed/insights/
