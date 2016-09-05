@@ -1,0 +1,55 @@
+{
+  "types": [
+    {
+      "title": "推荐",
+      "items": [
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "规范",
+      "items": [
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "其他",
+      "items": [
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
