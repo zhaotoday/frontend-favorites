@@ -1,21 +1,21 @@
-- http://docs.emmet.io/cheat-sheet/
+-
 - () https://www.debuggex.com/cheatsheet/regex/javascript
-- http://fontfamily.io/
-- http://apps.workflower.fi/vocabs/
-- https://developers.google.com/speed/pagespeed/insights/
-- https://dwqs.gitbooks.io/frontenddevhandbook/content/
-- http://hife.club/editor.md/
-- http://www.javascripting.com/
+-
+-
+- 
+- 
+- 
+- 
 - http://wulijun.github.io/php-the-right-way/
-- http://zhibimo.com/read/Ashu/front-end-style-guide/index.html
-- http://aaaaaashu.me/shu/
-- http://typo.sofi.sh/
-- http://styleguide.gitbook.com/
-- http://stack.formidable.com/es6-interactive-guide/#/
-- http://fmbip.com/
-- http://www.blooberry.com/indexdot/css/propindex/all.htm
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 - https://www.cheatography.com/davechild/cheat-sheets/css2/
-- http://www.dustindiaz.com/css-shorthand/
+- 
 - http://e.xitu.io/
 - https://slides.com/
 - https://www.pingxx.com/

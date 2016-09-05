@@ -4,8 +4,8 @@
       "title": "推荐",
       "items": [
         {
-          "title": "",
-          "url": ""
+          "title": "代码库",
+          "url": "http://www.javascripting.com/"
         },
         {
           "title": "",
@@ -21,8 +21,116 @@
       "title": "规范",
       "items": [
         {
+          "title": "GitBook Design Styleguide",
+          "url": "http://styleguide.gitbook.com/"
+        },
+        {
+          "title": "CSS Shorthand Guide",
+          "url": "http://www.dustindiaz.com/css-shorthand/"
+        },
+        {
           "title": "",
           "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "速查表",
+      "items": [
+        {
+          "title": "Emmet Documentation",
+          "url": "http://docs.emmet.io/cheat-sheet/"
+        },
+        {
+          "title": "Compatibility tables for default local fonts.",
+          "url": "http://fontfamily.io/"
+        },
+        {
+          "title": "HTML、CSS 术语",
+          "url": "http://apps.workflower.fi/vocabs/"
+        },
+        {
+          "title": "CSS Property Index",
+          "url": "http://www.blooberry.com/indexdot/css/propindex/all.htm"
+        },
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "工具",
+      "items": [
+        {
+          "title": "网页分析",
+          "url": "https://developers.google.com/speed/pagespeed/insights/"
+        },
+        {
+          "title": "md 在线编辑器",
+          "url": "http://hife.club/editor.md/"
+        },
+        {
+          "title": "当前浏览器的 HTML5、CSS3 的支持程度",
+          "url": "http://fmbip.com/"
+        },
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "手册",
+      "items": [
+        {
+          "title": "前端开发者手册",
+          "url": "https://dwqs.gitbooks.io/frontenddevhandbook/content/"
+        },
+        {
+          "title": "前端开发规范手册",
+          "url": "http://zhibimo.com/read/Ashu/front-end-style-guide/index.html"
+        },
+        {
+          "title": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "指南",
+      "items": [
+        {
+          "title": "网页字体排印指南",
+          "url": "http://aaaaaashu.me/shu/"
+        },
+        {
+          "title": "es6-interactive-guide",
+          "url": "http://stack.formidable.com/es6-interactive-guide/#/"
         },
         {
           "title": "",
@@ -38,8 +146,8 @@
       "title": "其他",
       "items": [
         {
-          "title": "",
-          "url": ""
+          "title": "中文网页重设与排版：typo.css",
+          "url": "http://typo.sofi.sh/"
         },
         {
           "title": "",
