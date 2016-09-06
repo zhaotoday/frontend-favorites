@@ -8,8 +8,44 @@
           "url": "http://www.javascripting.com/"
         },
         {
-          "title": "",
-          "url": ""
+          "title": "jQuery++",
+          "url": "http://jquerypp.com/"
+        },
+        {
+          "title": "代码库",
+          "url": "http://www.javascriptoo.com/"
+        },
+        {
+          "title": "代码库",
+          "url": "https://frontend.directory/p"
+        },
+        {
+          "title": "UI 中国",
+          "url": "http://www.ui.cn/"
+        },
+        {
+          "title": "图标查找",
+          "url": "http://findicons.com/"
+        },
+        {
+          "title": "github 上最流行的 10000 个 JS 项目",
+          "url": "https://stats.js.org/"
+        },
+        {
+          "title": "YOU MIGHT NOT NEED JQUERY",
+          "url": "http://youmightnotneedjquery.com/"
+        },
+        {
+          "title": "手机尺寸",
+          "url": "http://screensiz.es/phone"
+        },
+        {
+          "title": "HTML5 Cross Browser Polyfills",
+          "url": "https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills"
+        },
+        {
+          "title": "权威的前端性能指南",
+          "url": "https://browserdiet.com/zh/"
         },
         {
           "title": "",
@@ -91,6 +127,58 @@
           "url": "http://fmbip.com/"
         },
         {
+          "title": "支付接入",
+          "url": "https://www.pingxx.com/"
+        },
+        {
+          "title": "Whois API",
+          "url": "http://whois-api.domaininformation.de/"
+        },
+        {
+          "title": "API",
+          "url": "https://www.mashape.com/"
+        },
+        {
+          "title": "JPG 图片在线压缩",
+          "url": "https://imageoptim.com/mozjpeg"
+        },
+        {
+          "title": "智图 -- 图片在线压缩",
+          "url": "http://zhitu.isux.us/"
+        },
+        {
+          "title": "HTML5 兼容性测试",
+          "url": "http://html5test.com/"
+        },
+        {
+          "title": "图片在线压缩",
+          "url": "https://compressor.io/"
+        },
+        {
+          "title": "有字库",
+          "url": "http://www.youziku.com/"
+        },
+        {
+          "title": "H5 交互设计利器",
+          "url": "http://www.epub360.com/"
+        },
+        {
+          "title": "正则表达式",
+          "url": "http://regexr.com/"
+        },
+        {
+          "title": "代码运行",
+          "url": "http://codepen.io/pen/"
+        },
+        {
+          "title": "管理项目",
+          "url": "https://trello.com/"
+        },
+        {
+          "title": "移动端浏览器检测",
+          "url": "http://detectmobilebrowsers.com/"
+        },
+        {
           "title": "",
           "url": ""
         },
@@ -114,6 +202,50 @@
         {
           "title": "前端开发规范手册",
           "url": "http://zhibimo.com/read/Ashu/front-end-style-guide/index.html"
+        },
+        {
+          "title": "esdoc",
+          "url": "https://esdoc.org/esdoc/"
+        },
+        {
+          "title": "eslint",
+          "url": "http://eslint.cn/docs/rules/"
+        },
+        {
+          "title": "The HTML 5 JavaScript API Index",
+          "url": "http://html5index.org/"
+        },
+        {
+          "title": "React Cheat Sheet",
+          "url": "http://reactcheatsheet.com/"
+        },
+        {
+          "title": "色值安全",
+          "url": "http://colorsafe.co/"
+        },
+        {
+          "title": "移动端 HTML5 兼容性",
+          "url": "http://mobilehtml5.org/"
+        },
+        {
+          "title": "媒体查询",
+          "url": "http://nmsdvid.com/snippets/"
+        },
+        {
+          "title": "webkit css",
+          "url": "http://ued.ctrip.com/webkitcss/index.html"
+        },
+        {
+          "title": "HTML5 书签",
+          "url": "http://html5bookmarks.com/"
+        },
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
         },
         {
           "title": "",
@@ -143,11 +275,106 @@
       ]
     },
     {
+      "title": "云平台",
+      "items": [
+        {
+          "title": "leancloud",
+          "url": "https://leancloud.cn/"
+        },
+        {
+          "title": "daocloud",
+          "url": "https://www.daocloud.io/"
+        },
+        {
+          "title": "码云",
+          "url": "https://git.oschina.net/"
+        },
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "代码库",
+      "items": [
+        {
+          "title": "dowebok",
+          "url": "http://www.dowebok.com/"
+        },
+        {
+          "title": "awesomes",
+          "url": "https://www.awesomes.cn/"
+        },
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "网址导航",
+      "items": [
+        {
+          "title": "我的索引",
+          "url": "http://www.51index.cn/"
+        },
+        {
+          "title": "设计导航",
+          "url": "http://hao.shejidaren.com/"
+        },
+        {
+          "title": "醉牛前端",
+          "url": "http://f2er.club/"
+        },
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        }
+      ]
+    },
+    {
       "title": "其他",
       "items": [
         {
           "title": "中文网页重设与排版：typo.css",
           "url": "http://typo.sofi.sh/"
+        },
+        {
+          "title": "免费 PSD",
+          "url": "http://downloadfreepsd.com/"
+        },
+        {
+          "title": "MaterialUp",
+          "url": "https://material.uplabs.com/"
+        },
+        {
+          "title": "HOW TO KEEP UP TO DATE ON",
+          "url": "https://uptodate.frontendrescue.org/"
         },
         {
           "title": "",

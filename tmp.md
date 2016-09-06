@@ -18,65 +18,65 @@
 - 
 - http://e.xitu.io/
 - https://slides.com/
-- https://www.pingxx.com/
-- https://leancloud.cn/
-- https://www.daocloud.io/
-- https://git.oschina.net/
+- 
+- 
+- 
+- 
 - https://staticsitegenerators.net/
-- http://jquerypp.com/
+- 
 - https://deviceatlas.com/device-data/devices
-- http://whois-api.domaininformation.de/
-- https://www.mashape.com/
-- http://www.dowebok.com/
-- http://downloadfreepsd.com/
-- http://www.materialup.com/
-- http://eslint.cn/docs/rules/
-- https://esdoc.org/esdoc/
-- https://imageoptim.com/mozjpeg
-- http://www.javascriptoo.com/
-- http://zhitu.isux.us/
-- http://www.51index.cn/
-- http://html5test.com/
-- https://frontend.directory/p
-- https://compressor.io/
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 - https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan/
-- https://www.awesomes.cn/repos/Applications
+- repos/Applications
 - http://styleguides.io/examples.html
-- http://www.epub360.com/
+- 
 - https://dribbble.com/
-- http://www.ui.cn/
+- 
 - http://itest.aliyun.com/
-- http://f2er.club/
-- http://hao.shejidaren.com/
-- http://findicons.com/
-- http://www.youziku.com/
-- http://screensiz.es/phone
-- http://html5bookmarks.com/
+- 
+- 
+- 
+- 
+- 
+- 
 - http://mattkersley.com/responsive/
-- http://regexr.com/
-- http://youmightnotneedjquery.com/
-- https://uptodate.frontendrescue.org/
+- 
+- 
+- 
 - http://css3please.com/
-- http://html5index.org/
-- https://stats.js.org/
+- 
+- 
 - http://www.quirksmode.org/compatibility.html
 - http://vim.rtorr.com/lang/zh_cn/
-- http://reactcheatsheet.com/
-- https://trello.com/
-- http://codepen.io/pen/
-- https://browserdiet.com/zh/
+- 
+- 
+- 
+- 
 - http://smartmockups.com/
-- http://colorsafe.co/
+- 
 - http://css3lib.alloyteam.com/
-- https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills
+- 
 - http://quirktools.com/screenfly/
 - http://www.responsinator.com/
 - http://lab.maltewassermann.com/viewport-resizer/
-- http://ued.ctrip.com/webkitcss/index.html
-- http://nmsdvid.com/snippets/
+- 
+- 
 - http://tools.css3.info/selectors-test/test.html
-- http://mobilehtml5.org/
-- http://detectmobilebrowsers.com/mobile
+- 
+- mobile
 - http://www.quirksmode.org/compatibility.html
 - https://w3c-html-ig-zh.github.io/w3c-glossary/
 - https://bjango.com/articles/min-device-pixel-ratio/
