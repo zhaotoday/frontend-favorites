@@ -56,6 +56,30 @@
           "url": "http://caniuse.com/"
         },
         {
+          "title": "overapi",
+          "url": "http://overapi.com/"
+        },
+        {
+          "title": "devdocs",
+          "url": "http://devdocs.io/"
+        },
+        {
+          "title": "前端知识结构",
+          "url": "http://html5ify.com/fks/fks_chart/"
+        },
+        {
+          "title": "JS 秘密花园",
+          "url": "http://bonsaiden.github.io/JavaScript-Garden/zh/"
+        },
+        {
+          "title": "代码规范",
+          "url": "http://codeguide.co/"
+        },
+        {
+          "title": "",
+          "url": ""
+        },
+        {
           "title": "",
           "url": ""
         },
@@ -110,8 +134,8 @@
           "url": "http://www.blooberry.com/indexdot/css/propindex/all.htm"
         },
         {
-          "title": "",
-          "url": ""
+          "title": "browserhacks",
+          "url": "http://browserhacks.com/"
         },
         {
           "title": "",
@@ -219,6 +243,26 @@
           "url": "https://tinypng.com/"
         },
         {
+          "title": "ES-Checker",
+          "url": "http://ruanyf.github.io/es-checker/index.cn.html"
+        },
+        {
+          "title": "百度脑图",
+          "url": "http://naotu.baidu.com/"
+        },
+        {
+          "title": "脑图",
+          "url": "http://my-mind.github.io/"
+        },
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        },
+        {
           "title": "",
           "url": ""
         },
@@ -292,6 +336,26 @@
           "url": "http://html5please.com/"
         },
         {
+          "title": "兼容性",
+          "url": "http://w3help.org/zh-cn/kb/"
+        },
+        {
+          "title": "兼容性表",
+          "url": "http://kangax.github.io/compat-table/es6/"
+        },
+        {
+          "title": "分享知识",
+          "url": "https://developer.mozilla.org/zh-CN/"
+        },
+        {
+          "title": "HTML 参考文档",
+          "url": "http://w3c.github.io/html-reference/elements.html"
+        },
+        {
+          "title": "HTML5 Demos",
+          "url": "http://html5demos.com/"
+        },
+        {
           "title": "",
           "url": ""
         },
@@ -311,6 +375,18 @@
         {
           "title": "es6-interactive-guide",
           "url": "http://stack.formidable.com/es6-interactive-guide/#/"
+        },
+        {
+          "title": "Markdown 入门参考",
+          "url": "http://xianbai.me/learn-md/"
+        },
+        {
+          "title": "深入浅出 ES6",
+          "url": "http://www.infoq.com/cn/es6-in-depth/"
+        },
+        {
+          "title": "",
+          "url": ""
         },
         {
           "title": "",
@@ -348,10 +424,6 @@
         {
           "title": "",
           "url": ""
-        },
-        {
-          "title": "",
-          "url": ""
         }
       ]
     },
@@ -373,6 +445,14 @@
         {
           "title": "jster",
           "url": "http://jster.net/"
+        },
+        {
+          "title": "microjs",
+          "url": "http://microjs.com/"
+        },
+        {
+          "title": "ireact",
+          "url": "http://ireact.cn/"
         },
         {
           "title": "",
