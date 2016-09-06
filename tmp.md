@@ -1,5 +1,5 @@
 -
-- () https://www.debuggex.com/cheatsheet/regex/javascript
+- () cheatsheet/regex/javascript
 -
 -
 - 
@@ -78,29 +78,29 @@
 - 
 - mobile
 - http://www.quirksmode.org/compatibility.html
-- https://w3c-html-ig-zh.github.io/w3c-glossary/
-- https://bjango.com/articles/min-device-pixel-ratio/
+- 
+- 
 - http://www.appinn.com/
 - https://coggle.it/
-- https://www.debuggex.com/
-- https://jex.im/regulex/
-- https://regexper.com/
-- https://leohxj.gitbooks.io/front-end-database/content/
+- 
+- 
+- 
+- 
 - http://whycss.com/
-- http://collect.w3ctrain.com/
+- 
 - http://www.jqwidgets.com/jquery-widgets-demo/
-- http://www.w3school.com.cn/
+- 
 - http://mediaqueri.es/
 - https://chinesefontdesign.com/tag/traditional-chinese-font
-- http://fontawesome.io/
+- 
 - http://css3pie.com/
-- http://easings.net/zh-cn
-- https://plainjs.com/
-- http://jster.net/
+- 
+- 
+- 
 - http://jswiki.org/
-- https://tinypng.com/
-- http://html5please.com/
-- http://caniuse.com/
+- 
+- 
+- 
 - http://w3help.org/zh-cn/kb/
 - http://www.crx4chrome.com/
 - http://ruanyf.github.io/es-checker/index.cn.html

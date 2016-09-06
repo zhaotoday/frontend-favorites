@@ -48,6 +48,18 @@
           "url": "https://browserdiet.com/zh/"
         },
         {
+          "title": "w3school",
+          "url": "http://www.w3school.com.cn/"
+        },
+        {
+          "title": "caniuse",
+          "url": "http://caniuse.com/"
+        },
+        {
+          "title": "",
+          "url": ""
+        },
+        {
           "title": "",
           "url": ""
         }
@@ -167,6 +179,18 @@
           "url": "http://regexr.com/"
         },
         {
+          "title": "正则表达式",
+          "url": "https://www.debuggex.com/"
+        },
+        {
+          "title": "正则表达式",
+          "url": "https://jex.im/regulex/"
+        },
+        {
+          "title": "正则表达式",
+          "url": "https://regexper.com/"
+        },
+        {
           "title": "代码运行",
           "url": "http://codepen.io/pen/"
         },
@@ -179,8 +203,20 @@
           "url": "http://detectmobilebrowsers.com/"
         },
         {
-          "title": "",
-          "url": ""
+          "title": "Device pixel density tests",
+          "url": "https://bjango.com/articles/min-device-pixel-ratio/"
+        },
+        {
+          "title": "思维导图",
+          "url": "https://coggle.it/"
+        },
+        {
+          "title": "字体",
+          "url": "http://fontawesome.io/"
+        },
+        {
+          "title": "图片在线压缩",
+          "url": "https://tinypng.com/"
         },
         {
           "title": "",
@@ -240,8 +276,20 @@
           "url": "http://html5bookmarks.com/"
         },
         {
-          "title": "",
-          "url": ""
+          "title": "W3C Glossary 对照表",
+          "url": "https://w3c-html-ig-zh.github.io/w3c-glossary/"
+        },
+        {
+          "title": "前端工程师手册",
+          "url": "https://leohxj.gitbooks.io/front-end-database/content/"
+        },
+        {
+          "title": "缓动函数速查表",
+          "url": "http://easings.net/zh-cn"
+        },
+        {
+          "title": "html5please",
+          "url": "http://html5please.com/"
         },
         {
           "title": "",
@@ -319,6 +367,14 @@
           "url": "https://www.awesomes.cn/"
         },
         {
+          "title": "plainjs",
+          "url": "https://plainjs.com/"
+        },
+        {
+          "title": "jster",
+          "url": "http://jster.net/"
+        },
+        {
           "title": "",
           "url": ""
         },
@@ -346,6 +402,14 @@
         {
           "title": "醉牛前端",
           "url": "http://f2er.club/"
+        },
+        {
+          "title": "whycss",
+          "url": "http://whycss.com/"
+        },
+        {
+          "title": "前端收藏夹",
+          "url": "http://collect.w3ctrain.com/"
         },
         {
           "title": "",
