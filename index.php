@@ -75,7 +75,7 @@
       foreach ($data->items as $dataItem) {
       ?>
       <div class="col-md-3 ui-ellipsis">
-        <a href="<?php echo $dataItem->url; ?>" title="<?php echo $dataItem->title; ?>">
+        <a href="<?php echo $dataItem->url; ?>" target="_blank" title="<?php echo $dataItem->title; ?>">
           <?php
           echo $dataItem->title;
           ?>
