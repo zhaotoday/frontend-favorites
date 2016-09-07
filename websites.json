@@ -74,18 +74,6 @@
         {
           "title": "代码规范",
           "url": "http://codeguide.co/"
-        },
-        {
-          "title": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "url": ""
         }
       ]
     },
@@ -99,18 +87,6 @@
         {
           "title": "CSS Shorthand Guide",
           "url": "http://www.dustindiaz.com/css-shorthand/"
-        },
-        {
-          "title": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "url": ""
         }
       ]
     },
@@ -136,14 +112,6 @@
         {
           "title": "browserhacks",
           "url": "http://browserhacks.com/"
-        },
-        {
-          "title": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "url": ""
         }
       ]
     },
@@ -255,20 +223,16 @@
           "url": "http://my-mind.github.io/"
         },
         {
-          "title": "",
-          "url": ""
+          "title": "mydevice",
+          "url": "http://mydevice.io/devices/"
         },
         {
-          "title": "",
-          "url": ""
+          "title": "html5doctor",
+          "url": "http://html5doctor.com/"
         },
         {
-          "title": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "url": ""
+          "title": "Device metrics",
+          "url": "https://design.google.com/devices/"
         }
       ]
     },
@@ -354,14 +318,6 @@
         {
           "title": "HTML5 Demos",
           "url": "http://html5demos.com/"
-        },
-        {
-          "title": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "url": ""
         }
       ]
     },
@@ -383,18 +339,6 @@
         {
           "title": "深入浅出 ES6",
           "url": "http://www.infoq.com/cn/es6-in-depth/"
-        },
-        {
-          "title": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "url": ""
         }
       ]
     },
@@ -412,18 +356,6 @@
         {
           "title": "码云",
           "url": "https://git.oschina.net/"
-        },
-        {
-          "title": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "url": ""
         }
       ]
     },
@@ -453,18 +385,6 @@
         {
           "title": "ireact",
           "url": "http://ireact.cn/"
-        },
-        {
-          "title": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "url": ""
         }
       ]
     },
@@ -490,14 +410,6 @@
         {
           "title": "前端收藏夹",
           "url": "http://collect.w3ctrain.com/"
-        },
-        {
-          "title": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "url": ""
         }
       ]
     },
@@ -519,14 +431,6 @@
         {
           "title": "HOW TO KEEP UP TO DATE ON",
           "url": "https://uptodate.frontendrescue.org/"
-        },
-        {
-          "title": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "url": ""
         }
       ]
     }
