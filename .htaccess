@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www.riji.me$ [NC]
+RewriteRule ^(.*)$ http://www.riji.me/$1 [L,R=301]

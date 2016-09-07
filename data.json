@@ -1,438 +1,436 @@
-{
-  "types": [
-    {
-      "title": "推荐",
-      "items": [
-        {
-          "title": "代码库",
-          "url": "http://www.javascripting.com/"
-        },
-        {
-          "title": "jQuery++",
-          "url": "http://jquerypp.com/"
-        },
-        {
-          "title": "代码库",
-          "url": "http://www.javascriptoo.com/"
-        },
-        {
-          "title": "代码库",
-          "url": "https://frontend.directory/p"
-        },
-        {
-          "title": "UI 中国",
-          "url": "http://www.ui.cn/"
-        },
-        {
-          "title": "图标查找",
-          "url": "http://findicons.com/"
-        },
-        {
-          "title": "github 上最流行的 10000 个 JS 项目",
-          "url": "https://stats.js.org/"
-        },
-        {
-          "title": "YOU MIGHT NOT NEED JQUERY",
-          "url": "http://youmightnotneedjquery.com/"
-        },
-        {
-          "title": "手机尺寸",
-          "url": "http://screensiz.es/phone"
-        },
-        {
-          "title": "HTML5 Cross Browser Polyfills",
-          "url": "https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills"
-        },
-        {
-          "title": "权威的前端性能指南",
-          "url": "https://browserdiet.com/zh/"
-        },
-        {
-          "title": "w3school",
-          "url": "http://www.w3school.com.cn/"
-        },
-        {
-          "title": "caniuse",
-          "url": "http://caniuse.com/"
-        },
-        {
-          "title": "overapi",
-          "url": "http://overapi.com/"
-        },
-        {
-          "title": "devdocs",
-          "url": "http://devdocs.io/"
-        },
-        {
-          "title": "前端知识结构",
-          "url": "http://html5ify.com/fks/fks_chart/"
-        },
-        {
-          "title": "JS 秘密花园",
-          "url": "http://bonsaiden.github.io/JavaScript-Garden/zh/"
-        },
-        {
-          "title": "代码规范",
-          "url": "http://codeguide.co/"
-        }
-      ]
-    },
-    {
-      "title": "规范",
-      "items": [
-        {
-          "title": "GitBook Design Styleguide",
-          "url": "http://styleguide.gitbook.com/"
-        },
-        {
-          "title": "CSS Shorthand Guide",
-          "url": "http://www.dustindiaz.com/css-shorthand/"
-        }
-      ]
-    },
-    {
-      "title": "速查表",
-      "items": [
-        {
-          "title": "Emmet Documentation",
-          "url": "http://docs.emmet.io/cheat-sheet/"
-        },
-        {
-          "title": "Compatibility tables for default local fonts.",
-          "url": "http://fontfamily.io/"
-        },
-        {
-          "title": "HTML、CSS 术语",
-          "url": "http://apps.workflower.fi/vocabs/"
-        },
-        {
-          "title": "CSS Property Index",
-          "url": "http://www.blooberry.com/indexdot/css/propindex/all.htm"
-        },
-        {
-          "title": "browserhacks",
-          "url": "http://browserhacks.com/"
-        }
-      ]
-    },
-    {
-      "title": "工具",
-      "items": [
-        {
-          "title": "网页分析",
-          "url": "https://developers.google.com/speed/pagespeed/insights/"
-        },
-        {
-          "title": "md 在线编辑器",
-          "url": "http://hife.club/editor.md/"
-        },
-        {
-          "title": "当前浏览器的 HTML5、CSS3 的支持程度",
-          "url": "http://fmbip.com/"
-        },
-        {
-          "title": "支付接入",
-          "url": "https://www.pingxx.com/"
-        },
-        {
-          "title": "Whois API",
-          "url": "http://whois-api.domaininformation.de/"
-        },
-        {
-          "title": "API",
-          "url": "https://www.mashape.com/"
-        },
-        {
-          "title": "JPG 图片在线压缩",
-          "url": "https://imageoptim.com/mozjpeg"
-        },
-        {
-          "title": "智图 -- 图片在线压缩",
-          "url": "http://zhitu.isux.us/"
-        },
-        {
-          "title": "HTML5 兼容性测试",
-          "url": "http://html5test.com/"
-        },
-        {
-          "title": "图片在线压缩",
-          "url": "https://compressor.io/"
-        },
-        {
-          "title": "有字库",
-          "url": "http://www.youziku.com/"
-        },
-        {
-          "title": "H5 交互设计利器",
-          "url": "http://www.epub360.com/"
-        },
-        {
-          "title": "正则表达式",
-          "url": "http://regexr.com/"
-        },
-        {
-          "title": "正则表达式",
-          "url": "https://www.debuggex.com/"
-        },
-        {
-          "title": "正则表达式",
-          "url": "https://jex.im/regulex/"
-        },
-        {
-          "title": "正则表达式",
-          "url": "https://regexper.com/"
-        },
-        {
-          "title": "代码运行",
-          "url": "http://codepen.io/pen/"
-        },
-        {
-          "title": "管理项目",
-          "url": "https://trello.com/"
-        },
-        {
-          "title": "移动端浏览器检测",
-          "url": "http://detectmobilebrowsers.com/"
-        },
-        {
-          "title": "Device pixel density tests",
-          "url": "https://bjango.com/articles/min-device-pixel-ratio/"
-        },
-        {
-          "title": "思维导图",
-          "url": "https://coggle.it/"
-        },
-        {
-          "title": "字体",
-          "url": "http://fontawesome.io/"
-        },
-        {
-          "title": "图片在线压缩",
-          "url": "https://tinypng.com/"
-        },
-        {
-          "title": "ES-Checker",
-          "url": "http://ruanyf.github.io/es-checker/index.cn.html"
-        },
-        {
-          "title": "百度脑图",
-          "url": "http://naotu.baidu.com/"
-        },
-        {
-          "title": "脑图",
-          "url": "http://my-mind.github.io/"
-        },
-        {
-          "title": "mydevice",
-          "url": "http://mydevice.io/devices/"
-        },
-        {
-          "title": "html5doctor",
-          "url": "http://html5doctor.com/"
-        },
-        {
-          "title": "Device metrics",
-          "url": "https://design.google.com/devices/"
-        }
-      ]
-    },
-    {
-      "title": "手册",
-      "items": [
-        {
-          "title": "前端开发者手册",
-          "url": "https://dwqs.gitbooks.io/frontenddevhandbook/content/"
-        },
-        {
-          "title": "前端开发规范手册",
-          "url": "http://zhibimo.com/read/Ashu/front-end-style-guide/index.html"
-        },
-        {
-          "title": "esdoc",
-          "url": "https://esdoc.org/esdoc/"
-        },
-        {
-          "title": "eslint",
-          "url": "http://eslint.cn/docs/rules/"
-        },
-        {
-          "title": "The HTML 5 JavaScript API Index",
-          "url": "http://html5index.org/"
-        },
-        {
-          "title": "React Cheat Sheet",
-          "url": "http://reactcheatsheet.com/"
-        },
-        {
-          "title": "色值安全",
-          "url": "http://colorsafe.co/"
-        },
-        {
-          "title": "移动端 HTML5 兼容性",
-          "url": "http://mobilehtml5.org/"
-        },
-        {
-          "title": "媒体查询",
-          "url": "http://nmsdvid.com/snippets/"
-        },
-        {
-          "title": "webkit css",
-          "url": "http://ued.ctrip.com/webkitcss/index.html"
-        },
-        {
-          "title": "HTML5 书签",
-          "url": "http://html5bookmarks.com/"
-        },
-        {
-          "title": "W3C Glossary 对照表",
-          "url": "https://w3c-html-ig-zh.github.io/w3c-glossary/"
-        },
-        {
-          "title": "前端工程师手册",
-          "url": "https://leohxj.gitbooks.io/front-end-database/content/"
-        },
-        {
-          "title": "缓动函数速查表",
-          "url": "http://easings.net/zh-cn"
-        },
-        {
-          "title": "html5please",
-          "url": "http://html5please.com/"
-        },
-        {
-          "title": "兼容性",
-          "url": "http://w3help.org/zh-cn/kb/"
-        },
-        {
-          "title": "兼容性表",
-          "url": "http://kangax.github.io/compat-table/es6/"
-        },
-        {
-          "title": "分享知识",
-          "url": "https://developer.mozilla.org/zh-CN/"
-        },
-        {
-          "title": "HTML 参考文档",
-          "url": "http://w3c.github.io/html-reference/elements.html"
-        },
-        {
-          "title": "HTML5 Demos",
-          "url": "http://html5demos.com/"
-        }
-      ]
-    },
-    {
-      "title": "指南",
-      "items": [
-        {
-          "title": "网页字体排印指南",
-          "url": "http://aaaaaashu.me/shu/"
-        },
-        {
-          "title": "es6-interactive-guide",
-          "url": "http://stack.formidable.com/es6-interactive-guide/#/"
-        },
-        {
-          "title": "Markdown 入门参考",
-          "url": "http://xianbai.me/learn-md/"
-        },
-        {
-          "title": "深入浅出 ES6",
-          "url": "http://www.infoq.com/cn/es6-in-depth/"
-        }
-      ]
-    },
-    {
-      "title": "云平台",
-      "items": [
-        {
-          "title": "leancloud",
-          "url": "https://leancloud.cn/"
-        },
-        {
-          "title": "daocloud",
-          "url": "https://www.daocloud.io/"
-        },
-        {
-          "title": "码云",
-          "url": "https://git.oschina.net/"
-        }
-      ]
-    },
-    {
-      "title": "代码库",
-      "items": [
-        {
-          "title": "dowebok",
-          "url": "http://www.dowebok.com/"
-        },
-        {
-          "title": "awesomes",
-          "url": "https://www.awesomes.cn/"
-        },
-        {
-          "title": "plainjs",
-          "url": "https://plainjs.com/"
-        },
-        {
-          "title": "jster",
-          "url": "http://jster.net/"
-        },
-        {
-          "title": "microjs",
-          "url": "http://microjs.com/"
-        },
-        {
-          "title": "ireact",
-          "url": "http://ireact.cn/"
-        }
-      ]
-    },
-    {
-      "title": "网址导航",
-      "items": [
-        {
-          "title": "我的索引",
-          "url": "http://www.51index.cn/"
-        },
-        {
-          "title": "设计导航",
-          "url": "http://hao.shejidaren.com/"
-        },
-        {
-          "title": "醉牛前端",
-          "url": "http://f2er.club/"
-        },
-        {
-          "title": "whycss",
-          "url": "http://whycss.com/"
-        },
-        {
-          "title": "前端收藏夹",
-          "url": "http://collect.w3ctrain.com/"
-        }
-      ]
-    },
-    {
-      "title": "其他",
-      "items": [
-        {
-          "title": "中文网页重设与排版：typo.css",
-          "url": "http://typo.sofi.sh/"
-        },
-        {
-          "title": "免费 PSD",
-          "url": "http://downloadfreepsd.com/"
-        },
-        {
-          "title": "MaterialUp",
-          "url": "https://material.uplabs.com/"
-        },
-        {
-          "title": "HOW TO KEEP UP TO DATE ON",
-          "url": "https://uptodate.frontendrescue.org/"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "title": "推荐",
+    "items": [
+      {
+        "title": "代码库",
+        "url": "http://www.javascripting.com/"
+      },
+      {
+        "title": "jQuery++",
+        "url": "http://jquerypp.com/"
+      },
+      {
+        "title": "代码库",
+        "url": "http://www.javascriptoo.com/"
+      },
+      {
+        "title": "代码库",
+        "url": "https://frontend.directory/p"
+      },
+      {
+        "title": "UI 中国",
+        "url": "http://www.ui.cn/"
+      },
+      {
+        "title": "图标查找",
+        "url": "http://findicons.com/"
+      },
+      {
+        "title": "github 上最流行的 10000 个 JS 项目",
+        "url": "https://stats.js.org/"
+      },
+      {
+        "title": "YOU MIGHT NOT NEED JQUERY",
+        "url": "http://youmightnotneedjquery.com/"
+      },
+      {
+        "title": "手机尺寸",
+        "url": "http://screensiz.es/phone"
+      },
+      {
+        "title": "HTML5 Cross Browser Polyfills",
+        "url": "https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills"
+      },
+      {
+        "title": "权威的前端性能指南",
+        "url": "https://browserdiet.com/zh/"
+      },
+      {
+        "title": "w3school",
+        "url": "http://www.w3school.com.cn/"
+      },
+      {
+        "title": "caniuse",
+        "url": "http://caniuse.com/"
+      },
+      {
+        "title": "overapi",
+        "url": "http://overapi.com/"
+      },
+      {
+        "title": "devdocs",
+        "url": "http://devdocs.io/"
+      },
+      {
+        "title": "前端知识结构",
+        "url": "http://html5ify.com/fks/fks_chart/"
+      },
+      {
+        "title": "JS 秘密花园",
+        "url": "http://bonsaiden.github.io/JavaScript-Garden/zh/"
+      },
+      {
+        "title": "代码规范",
+        "url": "http://codeguide.co/"
+      }
+    ]
+  },
+  {
+    "title": "规范",
+    "items": [
+      {
+        "title": "GitBook Design Styleguide",
+        "url": "http://styleguide.gitbook.com/"
+      },
+      {
+        "title": "CSS Shorthand Guide",
+        "url": "http://www.dustindiaz.com/css-shorthand/"
+      }
+    ]
+  },
+  {
+    "title": "速查表",
+    "items": [
+      {
+        "title": "Emmet Documentation",
+        "url": "http://docs.emmet.io/cheat-sheet/"
+      },
+      {
+        "title": "Compatibility tables for default local fonts.",
+        "url": "http://fontfamily.io/"
+      },
+      {
+        "title": "HTML、CSS 术语",
+        "url": "http://apps.workflower.fi/vocabs/"
+      },
+      {
+        "title": "CSS Property Index",
+        "url": "http://www.blooberry.com/indexdot/css/propindex/all.htm"
+      },
+      {
+        "title": "browserhacks",
+        "url": "http://browserhacks.com/"
+      }
+    ]
+  },
+  {
+    "title": "工具",
+    "items": [
+      {
+        "title": "网页分析",
+        "url": "https://developers.google.com/speed/pagespeed/insights/"
+      },
+      {
+        "title": "md 在线编辑器",
+        "url": "http://hife.club/editor.md/"
+      },
+      {
+        "title": "当前浏览器的 HTML5、CSS3 的支持程度",
+        "url": "http://fmbip.com/"
+      },
+      {
+        "title": "支付接入",
+        "url": "https://www.pingxx.com/"
+      },
+      {
+        "title": "Whois API",
+        "url": "http://whois-api.domaininformation.de/"
+      },
+      {
+        "title": "API",
+        "url": "https://www.mashape.com/"
+      },
+      {
+        "title": "JPG 图片在线压缩",
+        "url": "https://imageoptim.com/mozjpeg"
+      },
+      {
+        "title": "智图 -- 图片在线压缩",
+        "url": "http://zhitu.isux.us/"
+      },
+      {
+        "title": "HTML5 兼容性测试",
+        "url": "http://html5test.com/"
+      },
+      {
+        "title": "图片在线压缩",
+        "url": "https://compressor.io/"
+      },
+      {
+        "title": "有字库",
+        "url": "http://www.youziku.com/"
+      },
+      {
+        "title": "H5 交互设计利器",
+        "url": "http://www.epub360.com/"
+      },
+      {
+        "title": "正则表达式",
+        "url": "http://regexr.com/"
+      },
+      {
+        "title": "正则表达式",
+        "url": "https://www.debuggex.com/"
+      },
+      {
+        "title": "正则表达式",
+        "url": "https://jex.im/regulex/"
+      },
+      {
+        "title": "正则表达式",
+        "url": "https://regexper.com/"
+      },
+      {
+        "title": "代码运行",
+        "url": "http://codepen.io/pen/"
+      },
+      {
+        "title": "管理项目",
+        "url": "https://trello.com/"
+      },
+      {
+        "title": "移动端浏览器检测",
+        "url": "http://detectmobilebrowsers.com/"
+      },
+      {
+        "title": "Device pixel density tests",
+        "url": "https://bjango.com/articles/min-device-pixel-ratio/"
+      },
+      {
+        "title": "思维导图",
+        "url": "https://coggle.it/"
+      },
+      {
+        "title": "字体",
+        "url": "http://fontawesome.io/"
+      },
+      {
+        "title": "图片在线压缩",
+        "url": "https://tinypng.com/"
+      },
+      {
+        "title": "ES-Checker",
+        "url": "http://ruanyf.github.io/es-checker/index.cn.html"
+      },
+      {
+        "title": "百度脑图",
+        "url": "http://naotu.baidu.com/"
+      },
+      {
+        "title": "脑图",
+        "url": "http://my-mind.github.io/"
+      },
+      {
+        "title": "mydevice",
+        "url": "http://mydevice.io/devices/"
+      },
+      {
+        "title": "html5doctor",
+        "url": "http://html5doctor.com/"
+      },
+      {
+        "title": "Device metrics",
+        "url": "https://design.google.com/devices/"
+      }
+    ]
+  },
+  {
+    "title": "手册",
+    "items": [
+      {
+        "title": "前端开发者手册",
+        "url": "https://dwqs.gitbooks.io/frontenddevhandbook/content/"
+      },
+      {
+        "title": "前端开发规范手册",
+        "url": "http://zhibimo.com/read/Ashu/front-end-style-guide/index.html"
+      },
+      {
+        "title": "esdoc",
+        "url": "https://esdoc.org/esdoc/"
+      },
+      {
+        "title": "eslint",
+        "url": "http://eslint.cn/docs/rules/"
+      },
+      {
+        "title": "The HTML 5 JavaScript API Index",
+        "url": "http://html5index.org/"
+      },
+      {
+        "title": "React Cheat Sheet",
+        "url": "http://reactcheatsheet.com/"
+      },
+      {
+        "title": "色值安全",
+        "url": "http://colorsafe.co/"
+      },
+      {
+        "title": "移动端 HTML5 兼容性",
+        "url": "http://mobilehtml5.org/"
+      },
+      {
+        "title": "媒体查询",
+        "url": "http://nmsdvid.com/snippets/"
+      },
+      {
+        "title": "webkit css",
+        "url": "http://ued.ctrip.com/webkitcss/index.html"
+      },
+      {
+        "title": "HTML5 书签",
+        "url": "http://html5bookmarks.com/"
+      },
+      {
+        "title": "W3C Glossary 对照表",
+        "url": "https://w3c-html-ig-zh.github.io/w3c-glossary/"
+      },
+      {
+        "title": "前端工程师手册",
+        "url": "https://leohxj.gitbooks.io/front-end-database/content/"
+      },
+      {
+        "title": "缓动函数速查表",
+        "url": "http://easings.net/zh-cn"
+      },
+      {
+        "title": "html5please",
+        "url": "http://html5please.com/"
+      },
+      {
+        "title": "兼容性",
+        "url": "http://w3help.org/zh-cn/kb/"
+      },
+      {
+        "title": "兼容性表",
+        "url": "http://kangax.github.io/compat-table/es6/"
+      },
+      {
+        "title": "分享知识",
+        "url": "https://developer.mozilla.org/zh-CN/"
+      },
+      {
+        "title": "HTML 参考文档",
+        "url": "http://w3c.github.io/html-reference/elements.html"
+      },
+      {
+        "title": "HTML5 Demos",
+        "url": "http://html5demos.com/"
+      }
+    ]
+  },
+  {
+    "title": "指南",
+    "items": [
+      {
+        "title": "网页字体排印指南",
+        "url": "http://aaaaaashu.me/shu/"
+      },
+      {
+        "title": "es6-interactive-guide",
+        "url": "http://stack.formidable.com/es6-interactive-guide/#/"
+      },
+      {
+        "title": "Markdown 入门参考",
+        "url": "http://xianbai.me/learn-md/"
+      },
+      {
+        "title": "深入浅出 ES6",
+        "url": "http://www.infoq.com/cn/es6-in-depth/"
+      }
+    ]
+  },
+  {
+    "title": "云平台",
+    "items": [
+      {
+        "title": "leancloud",
+        "url": "https://leancloud.cn/"
+      },
+      {
+        "title": "daocloud",
+        "url": "https://www.daocloud.io/"
+      },
+      {
+        "title": "码云",
+        "url": "https://git.oschina.net/"
+      }
+    ]
+  },
+  {
+    "title": "代码库",
+    "items": [
+      {
+        "title": "dowebok",
+        "url": "http://www.dowebok.com/"
+      },
+      {
+        "title": "awesomes",
+        "url": "https://www.awesomes.cn/"
+      },
+      {
+        "title": "plainjs",
+        "url": "https://plainjs.com/"
+      },
+      {
+        "title": "jster",
+        "url": "http://jster.net/"
+      },
+      {
+        "title": "microjs",
+        "url": "http://microjs.com/"
+      },
+      {
+        "title": "ireact",
+        "url": "http://ireact.cn/"
+      }
+    ]
+  },
+  {
+    "title": "网址导航",
+    "items": [
+      {
+        "title": "我的索引",
+        "url": "http://www.51index.cn/"
+      },
+      {
+        "title": "设计导航",
+        "url": "http://hao.shejidaren.com/"
+      },
+      {
+        "title": "醉牛前端",
+        "url": "http://f2er.club/"
+      },
+      {
+        "title": "whycss",
+        "url": "http://whycss.com/"
+      },
+      {
+        "title": "前端收藏夹",
+        "url": "http://collect.w3ctrain.com/"
+      }
+    ]
+  },
+  {
+    "title": "其他",
+    "items": [
+      {
+        "title": "中文网页重设与排版：typo.css",
+        "url": "http://typo.sofi.sh/"
+      },
+      {
+        "title": "免费 PSD",
+        "url": "http://downloadfreepsd.com/"
+      },
+      {
+        "title": "MaterialUp",
+        "url": "https://material.uplabs.com/"
+      },
+      {
+        "title": "HOW TO KEEP UP TO DATE ON",
+        "url": "https://uptodate.frontendrescue.org/"
+      }
+    ]
+  }
+]
