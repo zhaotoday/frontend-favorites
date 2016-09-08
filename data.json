@@ -182,8 +182,16 @@
         "url": "https://regexper.com/"
       },
       {
-        "title": "代码运行",
+        "title": "codepen - 代码运行",
         "url": "http://codepen.io/pen/"
+      },
+      {
+        "title": "jsbin - 代码运行",
+        "url": "http://jsbin.com/?html,output"
+      },
+      {
+        "title": "runjs - 代码运行",
+        "url": "http://runjs.cn/"
       },
       {
         "title": "管理项目",
@@ -275,10 +283,6 @@
         "url": "http://nmsdvid.com/snippets/"
       },
       {
-        "title": "webkit css",
-        "url": "http://ued.ctrip.com/webkitcss/index.html"
-      },
-      {
         "title": "HTML5 书签",
         "url": "http://html5bookmarks.com/"
       },
@@ -317,6 +321,14 @@
       {
         "title": "HTML5 Demos",
         "url": "http://html5demos.com/"
+      },
+      {
+        "title": "webkit 浏览器内核中的 CSS 属性",
+        "url": "http://ued.ctrip.com/webkitcss/index.html"
+      },
+      {
+        "title": "CSS 参考手册",
+        "url": "http://css.doyoe.com/"
       }
     ]
   },
@@ -338,6 +350,10 @@
       {
         "title": "深入浅出 ES6",
         "url": "http://www.infoq.com/cn/es6-in-depth/"
+      },
+      {
+        "title": "git - 简明指南",
+        "url": "http://rogerdudler.github.io/git-guide/index.zh.html"
       }
     ]
   },
