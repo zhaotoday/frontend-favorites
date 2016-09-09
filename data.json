@@ -354,6 +354,10 @@
       {
         "title": "git - 简明指南",
         "url": "http://rogerdudler.github.io/git-guide/index.zh.html"
+      },
+      {
+        "title": "移动WEB开发入门",
+        "url": "http://junmer.github.io/mobile-dev-get-started/#/"
       }
     ]
   },

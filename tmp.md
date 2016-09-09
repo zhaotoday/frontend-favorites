@@ -128,6 +128,6 @@
 - 
 - 
 - https://developers.whatwg.org/
-- https://design.google.com/devices/
+-
 - 
 - 
