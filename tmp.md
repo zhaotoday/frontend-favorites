@@ -16,8 +16,8 @@
 - 
 - https://www.cheatography.com/davechild/cheat-sheets/css2/
 - 
-- http://e.xitu.io/
-- https://slides.com/
+
+- 
 - 
 - 
 - 
@@ -39,11 +39,11 @@
 - 
 - 
 - 
-- https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan/
+- 
 - repos/Applications
 - http://styleguides.io/examples.html
 - 
-- https://dribbble.com/
+- 
 - 
 - http://itest.aliyun.com/
 - 
@@ -60,7 +60,7 @@
 - 
 - 
 - http://www.quirksmode.org/compatibility.html
-- http://vim.rtorr.com/lang/zh_cn/
+- 
 - 
 - 
 - 
@@ -74,21 +74,21 @@
 - http://lab.maltewassermann.com/viewport-resizer/
 - 
 - 
-- http://tools.css3.info/selectors-test/test.html
+- 
 - 
 - mobile
 - http://www.quirksmode.org/compatibility.html
 - 
 - 
 - http://www.appinn.com/
-- https://coggle.it/
 - 
 - 
 - 
 - 
-- http://whycss.com/
 - 
-- http://www.jqwidgets.com/jquery-widgets-demo/
+- 
+- 
+- jquery-widgets-demo/
 - 
 - http://mediaqueri.es/
 - https://chinesefontdesign.com/tag/traditional-chinese-font
@@ -122,7 +122,7 @@
 - http://justjavac.com/
 - http://div.io/
 - 
-- http://www.w3help.org/zh-cn/kb/
+- 
 - 
 - 
 - 

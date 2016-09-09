@@ -240,6 +240,18 @@
       {
         "title": "Device metrics",
         "url": "https://design.google.com/devices/"
+      },
+      {
+        "title": "Dribbble - 设计师社区",
+        "url": "https://dribbble.com/"
+      },
+      {
+        "title": "在线演示服务",
+        "url": "https://slides.com/"
+      },
+      {
+        "title": "网站扫描",
+        "url": "https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan/"
       }
     ]
   },
@@ -329,6 +341,14 @@
       {
         "title": "CSS 参考手册",
         "url": "http://css.doyoe.com/"
+      },
+      {
+        "title": "Vim 小抄",
+        "url": "http://vim.rtorr.com/lang/zh_cn/"
+      },
+      {
+        "title": "CSS3 选择器测试",
+        "url": "http://tools.css3.info/selectors-test/test.html"
       }
     ]
   },
@@ -404,6 +424,10 @@
       {
         "title": "ireact",
         "url": "http://ireact.cn/"
+      },
+      {
+        "title": "jQWidgets",
+        "url": "http://www.jqwidgets.com/"
       }
     ]
   },
