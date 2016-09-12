@@ -90,6 +90,39 @@
     ]
   },
   {
+    "title": "视频学习网站",
+    "items": [
+      {
+        "title": "慕课网",
+        "url": "http://www.imooc.com/"
+      },
+      {
+        "title": "极客学院",
+        "url": "http://www.jikexueyuan.com/"
+      },
+      {
+        "title": "腾讯课堂",
+        "url": "https://ke.qq.com/"
+      },
+      {
+        "title": "网易云课堂",
+        "url": "http://study.163.com/"
+      },
+      {
+        "title": "PHP 100",
+        "url": "http://www.php100.com/"
+      },
+      {
+        "title": "兄弟连 IT 教育",
+        "url": "http://www.lampbrother.net/"
+      },
+      {
+        "title": "妙味课堂",
+        "url": "http://www.miaov.com/"
+      }
+    ]
+  },
+  {
     "title": "速查表",
     "items": [
       {
