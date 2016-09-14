@@ -285,6 +285,10 @@
       {
         "title": "网站扫描",
         "url": "https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan/"
+      },
+      {
+        "title": "在线设计数据库",
+        "url": "http://ondras.zarovi.cz/sql/demo/?keyword=default"
       }
     ]
   },
