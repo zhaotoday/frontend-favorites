@@ -55,6 +55,14 @@
   </div>
 </nav>
 <div class="container">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      小广告
+    </div>
+    <div class="panel-body">
+      本人业余时间承接福州软件外包，有需要的请联系：赵先生，QQ：6421664，手机：13950442340。
+    </div>
+  </div>
   <?php
   $dataString = file_get_contents('data.json');
   $dataArray = json_decode($dataString);

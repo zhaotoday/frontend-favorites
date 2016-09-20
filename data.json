@@ -127,31 +127,6 @@
     ]
   },
   {
-    "title": "速查表",
-    "items": [
-      {
-        "title": "Emmet Documentation",
-        "url": "http://docs.emmet.io/cheat-sheet/"
-      },
-      {
-        "title": "Compatibility tables for default local fonts.",
-        "url": "http://fontfamily.io/"
-      },
-      {
-        "title": "HTML、CSS 术语",
-        "url": "http://apps.workflower.fi/vocabs/"
-      },
-      {
-        "title": "CSS Property Index",
-        "url": "http://www.blooberry.com/indexdot/css/propindex/all.htm"
-      },
-      {
-        "title": "browserhacks",
-        "url": "http://browserhacks.com/"
-      }
-    ]
-  },
-  {
     "title": "工具",
     "items": [
       {
@@ -297,6 +272,10 @@
       {
         "title": "浏览器市场份额",
         "url": "http://tongji.baidu.com/data/browser"
+      },
+      {
+        "title": "W3C 在线检验",
+        "url": "https://validator.w3.org/"
       }
     ]
   },
@@ -402,6 +381,26 @@
       {
         "title": "CSS3 选择器测试",
         "url": "http://tools.css3.info/selectors-test/test.html"
+      },
+      {
+        "title": "Emmet Documentation",
+        "url": "http://docs.emmet.io/cheat-sheet/"
+      },
+      {
+        "title": "本地默认字体兼容性表",
+        "url": "http://fontfamily.io/"
+      },
+      {
+        "title": "HTML、CSS 术语",
+        "url": "http://apps.workflower.fi/vocabs/"
+      },
+      {
+        "title": "CSS Property Index",
+        "url": "http://www.blooberry.com/indexdot/css/propindex/all.htm"
+      },
+      {
+        "title": "browserhacks",
+        "url": "http://browserhacks.com/"
       }
     ]
   },
@@ -510,6 +509,10 @@
       {
         "title": "前端收藏夹",
         "url": "http://collect.w3ctrain.com/"
+      },
+      {
+        "title": "前端导航网",
+        "url": "http://jsdig.com/"
       }
     ]
   },
