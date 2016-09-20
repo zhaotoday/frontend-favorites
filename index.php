@@ -4,9 +4,9 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="keywords" content="赵金添的前端收藏夹,前端网址大全,前端网址导航,前端资源索引,HTML/CSS/JS资源索引">
+  <meta name="keywords" content="赵金添的前端收藏夹,福州软件外包,前端网址大全,前端网址导航,前端资源索引,HTML/CSS/JS资源索引">
   <meta name="description" content="赵金添的前端收藏夹，是一个专注于 WEB 前端的程序员网址导航，及时收录本人在学习和工作过程中遇到的好的 WEB 前端技术、资讯、工具和HTML/CSS/JS相关的网址。">
-  <title>赵金添的前端收藏夹_前端网址导航</title>
+  <title>赵金添的前端收藏夹_前端网址导航,承接福州软件外包</title>
   <link rel="stylesheet" href="http://libs.cncdn.cn/twitter-bootstrap/3.3.6/css/bootstrap.min.css">
   <link rel="stylesheet" href="http://cncdn.cn/lib/bootstrap-theme/cosmo/bootstrap.min.css">
   <!--[if lt IE 9]>
@@ -49,7 +49,7 @@
         <li><a href="http://www.qianduan.org/" title="赵金添的前端博客" target="_blank">博客</a></li>
         <li><a href="https://github.com/zhaotoday" title="赵金添的 github" target="_blank">github</a></li>
         <li><a href="http://www.codefarm.net/" title="前端公共库 CDN" target="_blank">前端公共库 CDN</a></li>
-        <li><a href="http://www.liruan.cn/" title="福州力软信息科技有限公司" target="_blank">承接软件外包</a></li>
+        <li><a href="http://www.liruan.cn/" title="福州力软信息科技有限公司" target="_blank">承接福州软件外包</a></li>
       </ul>
     </div>
   </div>

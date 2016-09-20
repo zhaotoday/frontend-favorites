@@ -3,6 +3,10 @@
     "title": "推荐",
     "items": [
       {
+        "title": "w3schools",
+        "url": "http://www.w3schools.com/"
+      },
+      {
         "title": "javascripting - 代码库",
         "url": "http://www.javascripting.com/"
       },
@@ -289,6 +293,10 @@
       {
         "title": "在线设计数据库",
         "url": "http://ondras.zarovi.cz/sql/demo/?keyword=default"
+      },
+      {
+        "title": "浏览器市场份额",
+        "url": "http://tongji.baidu.com/data/browser"
       }
     ]
   },
@@ -304,8 +312,16 @@
         "url": "http://zhibimo.com/read/Ashu/front-end-style-guide/index.html"
       },
       {
-        "title": "esdoc",
+        "title": "ESDoc",
         "url": "https://esdoc.org/esdoc/"
+      },
+      {
+        "title": "JSDoc",
+        "url": "http://usejsdoc.org/"
+      },
+      {
+        "title": "JSDoc 中文文档",
+        "url": "http://www.css88.com/doc/jsdoc/index.html"
       },
       {
         "title": "eslint",
@@ -432,6 +448,10 @@
       {
         "title": "码云",
         "url": "https://git.oschina.net/"
+      },
+      {
+        "title": "聚云网 - 项目开发云平台",
+        "url": "http://mashupcloud.cn/"
       }
     ]
   },
