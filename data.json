@@ -276,6 +276,10 @@
       {
         "title": "W3C 在线检验",
         "url": "https://validator.w3.org/"
+      },
+      {
+        "title": "正则表达式流程图",
+        "url": "http://zhoushengfe.com/rline.html"
       }
     ]
   },
@@ -401,6 +405,10 @@
       {
         "title": "browserhacks",
         "url": "http://browserhacks.com/"
+      },
+      {
+        "title": "runoob",
+        "url": "http://www.runoob.com/"
       }
     ]
   },
@@ -434,8 +442,20 @@
     ]
   },
   {
-    "title": "云平台",
+    "title": "云平台/代码托管",
     "items": [
+      {
+        "title": "Coding",
+        "url": "https://coding.net/"
+      },
+      {
+        "title": "TaoCode",
+        "url": "http://code.taobao.org/"
+      },
+      {
+        "title": "CSDN",
+        "url": "https://code.csdn.net/"
+      },
       {
         "title": "leancloud",
         "url": "https://leancloud.cn/"
@@ -451,6 +471,14 @@
       {
         "title": "聚云网 - 项目开发云平台",
         "url": "http://mashupcloud.cn/"
+      },
+      {
+        "title": "GitLab",
+        "url": "https://about.gitlab.com/"
+      },
+      {
+        "title": "Bitbucket",
+        "url": "https://bitbucket.org/"
       }
     ]
   },
@@ -484,6 +512,10 @@
       {
         "title": "jQWidgets",
         "url": "http://www.jqwidgets.com/"
+      },
+      {
+        "title": "jQuery 插件",
+        "url": "http://jquerycards.com/"
       }
     ]
   },
