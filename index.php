@@ -18,6 +18,7 @@
   <![endif]-->
   <style>
     body {
+      font-family: "微软雅黑";
       padding-top: 85px;
     }
 
