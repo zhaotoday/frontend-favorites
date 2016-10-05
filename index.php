@@ -8,7 +8,7 @@
   <meta name="description" content="赵金添的前端收藏夹，是一个专注于 WEB 前端的程序员网址导航，及时收录本人在学习和工作过程中遇到的好的 WEB 前端技术、资讯、工具和HTML/CSS/JS相关的网址。">
   <title>赵金添的前端收藏夹_前端网址导航,承接福州软件外包</title>
   <link rel="stylesheet" href="http://libs.cncdn.cn/twitter-bootstrap/3.3.6/css/bootstrap.min.css">
-  <link rel="stylesheet" href="http://cncdn.cn/lib/bootstrap-theme/cosmo/bootstrap.min.css">
+  <link rel="stylesheet" href="http://libs.cncdn.cn/bootswatch/3.3.7/paper/bootstrap.min.css">
   <!--[if lt IE 9]>
   <script src="http://libs.cncdn.cn/html5shiv/3.7.3/html5shiv.min.js"></script>
   <script src="http://libs.cncdn.cn/respond.js/1.4.2/respond.min.js"></script>
@@ -18,7 +18,7 @@
   <![endif]-->
   <style>
     body {
-      padding-top: 70px;
+      padding-top: 85px;
     }
 
     .lh-220 {
