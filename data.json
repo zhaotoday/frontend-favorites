@@ -77,6 +77,10 @@
       {
         "title": "代码规范",
         "url": "http://codeguide.co/"
+      },
+      {
+        "title": "编码约定",
+        "url": "http://sideeffect.kr/popularconvention"
       }
     ]
   },
@@ -409,6 +413,26 @@
       {
         "title": "runoob",
         "url": "http://www.runoob.com/"
+      },
+      {
+        "title": "<head> 标签小抄",
+        "url": "http://gethead.info/"
+      },
+      {
+        "title": "JS 相关名词",
+        "url": "http://jargon.js.org/"
+      },
+      {
+        "title": "HTML5 兼容性",
+        "url": "http://www.html5accessibility.com/"
+      },
+      {
+        "title": "Node.js 的 ES2015 支持情况",
+        "url": "http://node.green/"
+      },
+      {
+        "title": "jQuery API 查询",
+        "url": "https://oscarotero.com/jquery/"
       }
     ]
   },
@@ -438,6 +462,10 @@
       {
         "title": "移动WEB开发入门",
         "url": "http://junmer.github.io/mobile-dev-get-started/#/"
+      },
+      {
+        "title": "JavaScript SDK 设计指南",
+        "url": "http://www.zcfy.cc/article/javascript-sdk-design-guide-530.html"
       }
     ]
   },
