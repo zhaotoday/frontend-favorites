@@ -48,7 +48,7 @@
     <div class="collapse navbar-collapse" id="navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li><a href="http://www.qianduan.org/" title="赵金添的前端博客" target="_blank">博客</a></li>
-        <li><a href="https://github.com/zhaotoday" title="赵金添的 github" target="_blank">github</a></li>
+        <li><a href="https://github.com/zhaotoday" title="赵金添的 GitHub" target="_blank">GitHub</a></li>
         <li><a href="http://www.codefarm.net/" title="前端公共库 CDN" target="_blank">前端公共库 CDN</a></li>
         <li><a href="http://www.liruan.cn/" title="福州力软信息科技有限公司" target="_blank">承接福州软件外包</a></li>
       </ul>
