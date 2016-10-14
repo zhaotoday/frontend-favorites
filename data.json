@@ -98,6 +98,10 @@
       {
         "title": "CSS Shorthand Guide",
         "url": "http://www.dustindiaz.com/css-shorthand/"
+      },
+      {
+        "title": "Google 开源项目风格指南 (中文版)",
+        "url": "http://zh-google-styleguide.readthedocs.io/en/latest/"
       }
     ]
   },
