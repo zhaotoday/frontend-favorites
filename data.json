@@ -300,6 +300,10 @@
       {
         "title": "正则表达式流程图",
         "url": "http://zhoushengfe.com/rline.html"
+      },
+      {
+        "title": "在线 md 编辑器",
+        "url": "https://www.zybuluo.com/mdeditor"
       }
     ]
   },
@@ -457,6 +461,14 @@
       {
         "title": "CSS 参考手册",
         "url": "http://tympanus.net/codrops/css_reference/"
+      },
+      {
+        "title": "常用 API 文档索引",
+        "url": "http://tool.oschina.net/apidocs"
+      },
+      {
+        "title": "CSS3 动画手册",
+        "url": "http://isux.tencent.com/css3/index.html"
       }
     ]
   },
@@ -502,6 +514,14 @@
       {
         "title": "Webpack 中文指南",
         "url": "http://webpackdoc.com/"
+      },
+      {
+        "title": "正则表达式",
+        "url": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions"
+      },
+      {
+        "title": "JavaScript 指南",
+        "url": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide"
       }
     ]
   },
