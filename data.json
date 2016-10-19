@@ -142,8 +142,12 @@
     "title": "工具",
     "items": [
       {
-        "title": "网页分析",
+        "title": "PageSpeed Insights 网页分析",
         "url": "https://developers.google.com/speed/pagespeed/insights/"
+      },
+      {
+        "title": "PageSpeed Insights 规则",
+        "url": "https://developers.google.com/speed/docs/insights/rules"
       },
       {
         "title": "md 在线编辑器",
@@ -204,6 +208,10 @@
       {
         "title": "正则表达式",
         "url": "https://regexper.com/"
+      },
+      {
+        "title": "在线正则表达式测试",
+        "url": "http://tool.oschina.net/regex/"
       },
       {
         "title": "codepen - 代码运行",
@@ -441,6 +449,14 @@
       {
         "title": "jQuery API 查询",
         "url": "https://oscarotero.com/jquery/"
+      },
+      {
+        "title": "CSS 参考手册",
+        "url": "http://www.phpstudy.net/css3/"
+      },
+      {
+        "title": "CSS 参考手册",
+        "url": "http://tympanus.net/codrops/css_reference/"
       }
     ]
   },
@@ -474,6 +490,18 @@
       {
         "title": "JavaScript SDK 设计指南",
         "url": "http://www.zcfy.cc/article/javascript-sdk-design-guide-530.html"
+      },
+      {
+        "title": "JavaScript 标准参考教程（alpha）",
+        "url": "http://javascript.ruanyifeng.com/"
+      },
+      {
+        "title": "JS函数式编程指南",
+        "url": "https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/"
+      },
+      {
+        "title": "Webpack 中文指南",
+        "url": "http://webpackdoc.com/"
       }
     ]
   },
