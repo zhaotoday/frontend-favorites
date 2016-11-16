@@ -150,6 +150,10 @@
     "title": "工具",
     "items": [
       {
+        "title": "npm 包搜索工具",
+        "url": "https://npms.io/"
+      },
+      {
         "title": "PageSpeed Insights 网页分析",
         "url": "https://developers.google.com/speed/pagespeed/insights/"
       },
