@@ -3,6 +3,18 @@
     "title": "推荐",
     "items": [
       {
+        "title": "Bootstrap 4 小抄",
+        "url": "https://hackerthemes.com/bootstrap-cheatsheet/"
+      },
+      {
+        "title": "BootStrap 4 小抄（另外一个）",
+        "url": "https://bootstrapcreative.com/resources/bootstrap-4-css-classes-index/"
+      }
+      {
+        "title": "前端框架兼容表",
+        "url": "http://usablica.github.io/front-end-frameworks/compare.html"
+      },
+      {
         "title": "w3schools",
         "url": "http://www.w3schools.com/"
       },
