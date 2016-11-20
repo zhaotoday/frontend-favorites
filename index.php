@@ -18,7 +18,7 @@
   <![endif]-->
   <style>
     body {
-      font-family: "微软雅黑";
+      font-family: Microsoft YaHei;
       padding-top: 85px;
     }
 
@@ -27,8 +27,8 @@
     }
 
     .ui-ellipsis {
-      white-space:nowrap;
-      text-overflow:ellipsis;
+      white-space: nowrap;
+      text-overflow: ellipsis;
       overflow: hidden;
     }
   </style>
