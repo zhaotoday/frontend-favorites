@@ -3,6 +3,10 @@
     "title": "推荐",
     "items": [
       {
+        "title": "Web 全栈技术指南",
+        "url": "https://getfullstack.com/"
+      },
+      {
         "title": "Bootstrap 4 小抄",
         "url": "https://hackerthemes.com/bootstrap-cheatsheet/"
       },
