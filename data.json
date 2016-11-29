@@ -3,6 +3,10 @@
     "title": "推荐",
     "items": [
       {
+        "title": "凹凸实验室",
+        "url": "https://aotu.io/"
+      },
+      {
         "title": "Web 全栈技术指南",
         "url": "https://getfullstack.com/"
       },
