@@ -343,6 +343,10 @@
     "title": "手册",
     "items": [
       {
+        "title": "语言代码",
+        "url": "https://www.sitepoint.com/web-foundations/iso-2-letter-language-codes/"
+      },
+      {
         "title": "前端开发者手册",
         "url": "https://dwqs.gitbooks.io/frontenddevhandbook/content/"
       },
