@@ -1,10 +1,7 @@
 ## 关于
 这是一个专注于 WEB 前端的程序员网址导航，及时收录本人在学习和工作过程中遇到的好的 WEB 前端技术、资讯、工具和 HTML/CSS/JS 相关的网址。
 
-## 网址
-http://www.riji.me
 
-## 网址
 
 ###推荐
 - [凹凸实验室](https://aotu.io/)
@@ -35,10 +32,12 @@ http://www.riji.me
 - [JS 贴士](http://www.jstips.co/zh_CN/)
 - [colorhunt - 网页配色](http://colorhunt.co/)
 - [easyicon - 图标](http://www.easyicon.net/)
+
 ###规范
 - [GitBook Design Styleguide](http://styleguide.gitbook.com/)
 - [CSS Shorthand Guide](http://www.dustindiaz.com/css-shorthand/)
 - [Google 开源项目风格指南 (中文版)](http://zh-google-styleguide.readthedocs.io/en/latest/)
+
 ###视频学习网站
 - [慕课网](http://www.imooc.com/)
 - [极客学院](http://www.jikexueyuan.com/)
@@ -47,6 +46,7 @@ http://www.riji.me
 - [PHP 100](http://www.php100.com/)
 - [兄弟连 IT 教育](http://www.lampbrother.net/)
 - [妙味课堂](http://www.miaov.com/)
+
 ###工具
 - [npm 包搜索工具](https://npms.io/)
 - [PageSpeed Insights 网页分析](https://developers.google.com/speed/pagespeed/insights/)
@@ -90,6 +90,7 @@ http://www.riji.me
 - [W3C 在线检验](https://validator.w3.org/)
 - [正则表达式流程图](http://zhoushengfe.com/rline.html)
 - [在线 md 编辑器](https://www.zybuluo.com/mdeditor)
+
 ###手册
 - [语言代码](https://www.sitepoint.com/web-foundations/iso-2-letter-language-codes/)
 - [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
@@ -132,6 +133,7 @@ http://www.riji.me
 - [CSS 参考手册](http://tympanus.net/codrops/css_reference/)
 - [常用 API 文档索引](http://tool.oschina.net/apidocs)
 - [CSS3 动画手册](http://isux.tencent.com/css3/index.html)
+
 ###指南
 - [网页字体排印指南](http://aaaaaashu.me/shu/)
 - [es6-interactive-guide](http://stack.formidable.com/es6-interactive-guide/#/)
@@ -145,6 +147,7 @@ http://www.riji.me
 - [Webpack 中文指南](http://webpackdoc.com/)
 - [正则表达式](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions)
 - [JavaScript 指南](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide)
+
 ###云平台/代码托管
 - [Coding](https://coding.net/)
 - [TaoCode](http://code.taobao.org/)
@@ -155,6 +158,7 @@ http://www.riji.me
 - [聚云网 - 项目开发云平台](http://mashupcloud.cn/)
 - [GitLab](https://about.gitlab.com/)
 - [Bitbucket](https://bitbucket.org/)
+
 ###代码库
 - [dowebok](http://www.dowebok.com/)
 - [awesomes](https://www.awesomes.cn/)
@@ -164,6 +168,7 @@ http://www.riji.me
 - [ireact](http://ireact.cn/)
 - [jQWidgets](http://www.jqwidgets.com/)
 - [jQuery 插件](http://jquerycards.com/)
+
 ###网址导航
 - [我的索引](http://www.51index.cn/)
 - [设计导航](http://hao.shejidaren.com/)
@@ -171,6 +176,7 @@ http://www.riji.me
 - [whycss](http://whycss.com/)
 - [前端收藏夹](http://collect.w3ctrain.com/)
 - [前端导航网](http://jsdig.com/)
+
 ###其他
 - [中文网页重设与排版：typo.css](http://typo.sofi.sh/)
 - [免费 PSD](http://downloadfreepsd.com/)
