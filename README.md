@@ -3,7 +3,7 @@
 
 
 
-###推荐
+##推荐
 - [凹凸实验室](https://aotu.io/)
 - [Web 全栈技术指南](https://getfullstack.com/)
 - [Bootstrap 4 小抄](https://hackerthemes.com/bootstrap-cheatsheet/)
@@ -33,12 +33,12 @@
 - [colorhunt - 网页配色](http://colorhunt.co/)
 - [easyicon - 图标](http://www.easyicon.net/)
 
-###规范
+##规范
 - [GitBook Design Styleguide](http://styleguide.gitbook.com/)
 - [CSS Shorthand Guide](http://www.dustindiaz.com/css-shorthand/)
 - [Google 开源项目风格指南 (中文版)](http://zh-google-styleguide.readthedocs.io/en/latest/)
 
-###视频学习网站
+##视频学习网站
 - [慕课网](http://www.imooc.com/)
 - [极客学院](http://www.jikexueyuan.com/)
 - [腾讯课堂](https://ke.qq.com/)
@@ -47,7 +47,7 @@
 - [兄弟连 IT 教育](http://www.lampbrother.net/)
 - [妙味课堂](http://www.miaov.com/)
 
-###工具
+##工具
 - [npm 包搜索工具](https://npms.io/)
 - [PageSpeed Insights 网页分析](https://developers.google.com/speed/pagespeed/insights/)
 - [PageSpeed Insights 规则](https://developers.google.com/speed/docs/insights/rules)
@@ -91,7 +91,7 @@
 - [正则表达式流程图](http://zhoushengfe.com/rline.html)
 - [在线 md 编辑器](https://www.zybuluo.com/mdeditor)
 
-###手册
+##手册
 - [语言代码](https://www.sitepoint.com/web-foundations/iso-2-letter-language-codes/)
 - [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
 - [前端开发规范手册](http://zhibimo.com/read/Ashu/front-end-style-guide/index.html)
@@ -134,7 +134,7 @@
 - [常用 API 文档索引](http://tool.oschina.net/apidocs)
 - [CSS3 动画手册](http://isux.tencent.com/css3/index.html)
 
-###指南
+##指南
 - [网页字体排印指南](http://aaaaaashu.me/shu/)
 - [es6-interactive-guide](http://stack.formidable.com/es6-interactive-guide/#/)
 - [Markdown 入门参考](http://xianbai.me/learn-md/)
@@ -148,7 +148,7 @@
 - [正则表达式](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions)
 - [JavaScript 指南](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide)
 
-###云平台/代码托管
+##云平台/代码托管
 - [Coding](https://coding.net/)
 - [TaoCode](http://code.taobao.org/)
 - [CSDN](https://code.csdn.net/)
@@ -159,7 +159,7 @@
 - [GitLab](https://about.gitlab.com/)
 - [Bitbucket](https://bitbucket.org/)
 
-###代码库
+##代码库
 - [dowebok](http://www.dowebok.com/)
 - [awesomes](https://www.awesomes.cn/)
 - [plainjs](https://plainjs.com/)
@@ -169,7 +169,7 @@
 - [jQWidgets](http://www.jqwidgets.com/)
 - [jQuery 插件](http://jquerycards.com/)
 
-###网址导航
+##网址导航
 - [我的索引](http://www.51index.cn/)
 - [设计导航](http://hao.shejidaren.com/)
 - [醉牛前端](http://f2er.club/)
@@ -177,7 +177,7 @@
 - [前端收藏夹](http://collect.w3ctrain.com/)
 - [前端导航网](http://jsdig.com/)
 
-###其他
+##其他
 - [中文网页重设与排版：typo.css](http://typo.sofi.sh/)
 - [免费 PSD](http://downloadfreepsd.com/)
 - [MaterialUp](https://material.uplabs.com/)
