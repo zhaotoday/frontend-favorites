@@ -343,6 +343,10 @@
     "title": "手册",
     "items": [
       {
+        "title": "ES6 手册",
+        "url": "https://qiutc.me/post/es6-cheatsheet.html"
+      },
+      {
         "title": "语言代码",
         "url": "https://www.sitepoint.com/web-foundations/iso-2-letter-language-codes/"
       },
