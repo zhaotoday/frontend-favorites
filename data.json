@@ -343,6 +343,10 @@
     "title": "手册",
     "items": [
       {
+        "title": "webpack 2.2 中文文档",
+        "url": "http://www.css88.com/doc/webpack2/"
+      },
+      {
         "title": "ES6 手册",
         "url": "https://qiutc.me/post/es6-cheatsheet.html"
       },
