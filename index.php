@@ -7,8 +7,8 @@
   <meta name="keywords" content="赵金添的前端收藏夹,福州软件外包,前端网址大全,前端网址导航,前端资源索引,HTML/CSS/JS资源索引">
   <meta name="description" content="赵金添的前端收藏夹，是一个专注于 WEB 前端的程序员网址导航，及时收录本人在学习和工作过程中遇到的好的 WEB 前端技术、资讯、工具和HTML/CSS/JS相关的网址。">
   <title>赵金添的前端收藏夹_前端网址导航,承接福州软件外包</title>
-  <link rel="stylesheet" href="http://cdn.liruan.cn/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
-  <link rel="stylesheet" href="http://cdn.liruan.cn/twitter-bootstrap/3.3.7/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="//cdn.liruan.cn/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="//cdn.liruan.cn/bootswatch/3.3.7/paper/bootstrap.min.css">
   <link rel="stylesheet" href="themes/styles/main.css">
 </head>
 <body>
