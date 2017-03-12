@@ -15,32 +15,11 @@
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
       <a class="navbar-brand" href="/" title="赵金添的前端收藏夹">赵金添的前端收藏夹</a>
-    </div>
-    <div class="collapse navbar-collapse" id="navbar-collapse-1">
-      <ul class="nav navbar-nav">
-        <li><a href="http://www.qianduan.org/" title="赵金添的前端博客" target="_blank">博客</a></li>
-        <li><a href="https://github.com/zhaotoday" title="赵金添的 GitHub" target="_blank">GitHub</a></li>
-        <li><a href="http://www.codefarm.net/" title="前端公共库 CDN" target="_blank">前端公共库 CDN</a></li>
-        <li><a href="http://www.liruan.cn/" title="福州力软信息科技有限公司" target="_blank">承接福州软件外包</a></li>
-      </ul>
     </div>
   </div>
 </nav>
 <div class="container">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      小广告
-    </div>
-    <div class="panel-body">
-      本人业余时间承接福州软件外包，有需要的请联系：赵先生，QQ：6421664，手机：13950442340。
-    </div>
-  </div>
   <?php
   $dataString = file_get_contents('src/data.json');
   $dataArray = json_decode($dataString);
