@@ -7,34 +7,11 @@
   <meta name="keywords" content="赵金添的前端收藏夹,福州软件外包,前端网址大全,前端网址导航,前端资源索引,HTML/CSS/JS资源索引">
   <meta name="description" content="赵金添的前端收藏夹，是一个专注于 WEB 前端的程序员网址导航，及时收录本人在学习和工作过程中遇到的好的 WEB 前端技术、资讯、工具和HTML/CSS/JS相关的网址。">
   <title>赵金添的前端收藏夹_前端网址导航,承接福州软件外包</title>
-  <link rel="stylesheet" href="http://libs.cncdn.cn/twitter-bootstrap/3.3.6/css/bootstrap.min.css">
-  <link rel="stylesheet" href="http://libs.cncdn.cn/bootswatch/3.3.7/paper/bootstrap.min.css">
-  <!--[if lt IE 9]>
-  <script src="http://libs.cncdn.cn/html5shiv/3.7.3/html5shiv.min.js"></script>
-  <script src="http://libs.cncdn.cn/respond.js/1.4.2/respond.min.js"></script>
-  <link id="respond-proxy" rel="respond-proxy" href="http://libs.cncdn.cn/cross-domain/respond-proxy.html">
-  <link id="respond-redirect" rel="respond-redirect" href="cross-domain/respond.proxy.gif">
-  <script src="cross-domain/respond.proxy.js"></script>
-  <![endif]-->
-  <style>
-    body {
-      font-family: Microsoft YaHei;
-      padding-top: 85px;
-    }
-
-    .lh-220 {
-      line-height: 220%;
-    }
-
-    .ui-ellipsis {
-      white-space: nowrap;
-      text-overflow: ellipsis;
-      overflow: hidden;
-    }
-  </style>
+  <link rel="stylesheet" href="http://cdn.liruan.cn/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="http://cdn.liruan.cn/twitter-bootstrap/3.3.7/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="themes/styles/main.css">
 </head>
 <body>
-
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container">
     <div class="navbar-header">
@@ -65,7 +42,7 @@
     </div>
   </div>
   <?php
-  $dataString = file_get_contents('data.json');
+  $dataString = file_get_contents('src/data.json');
   $dataArray = json_decode($dataString);
   ?>
   <?php
