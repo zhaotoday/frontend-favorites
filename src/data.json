@@ -3,6 +3,10 @@
     "title": "推荐",
     "items": [
       {
+        "title": "PHP 之道",
+        "url": "http://laravel-china.github.io/php-the-right-way/"
+      },
+      {
         "title": "凹凸实验室",
         "url": "https://aotu.io/"
       },
