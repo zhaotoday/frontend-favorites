@@ -16,11 +16,6 @@
   <div class="container">
     <div class="navbar-header">
       <a class="navbar-brand" href="/" title="赵金添的前端收藏夹">赵金添的前端收藏夹</a>
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
     </div>
     <div class="collapse navbar-collapse" id="navbar-collapse-1">
       <ul class="nav navbar-nav pull-right">
