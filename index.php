@@ -24,8 +24,9 @@
     </div>
     <div class="collapse navbar-collapse" id="navbar-collapse-1">
       <ul class="nav navbar-nav pull-right">
-        <li><a href="http://www.qianduan.org/" title="我的前端博客" target="_blank">我的前端博客</a></li>
         <li><a href="https://github.com/zhaotoday" title="我的 GitHub" target="_blank">我的 GitHub</a></li>
+        <li><a href="http://www.qianduan.org/" title="我的前端博客" target="_blank">我的前端博客</a></li>
+        <li><a href="https://www.liruan.cn/" title="我的公司" target="_blank">我的公司</a></li>
       </ul>
     </div>
   </div>
