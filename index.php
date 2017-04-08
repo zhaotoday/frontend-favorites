@@ -8,7 +8,7 @@
   <meta name="description" content="赵金添的前端收藏夹，是一个专注于 WEB 前端的程序员网址导航，及时收录本人在学习和工作过程中遇到的好的 WEB 前端技术、资讯、工具和HTML/CSS/JS相关的网址。">
   <title>前端收藏夹</title>
   <link rel="stylesheet" href="//cdn.liruan.cn/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
-  <link rel="stylesheet" href="//cdn.liruan.cn/bootswatch/3.3.7/paper/bootstrap.min.css">
+  <link rel="stylesheet" href="//cdn.liruan.cn/bootswatch/3.3.7/flatly/bootstrap.min.css">
   <link rel="stylesheet" href="themes/styles/main.css">
 </head>
 <body>
