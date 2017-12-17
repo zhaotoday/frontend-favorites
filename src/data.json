@@ -3,6 +3,10 @@
     "title": "待归类",
     "items": [
       {
+        "title": "创造师导航",
+        "url": "http://chuangzaoshi.com/index"
+      },
+      {
         "title": "前端导航",
         "url": "https://luuman.github.io/FrontEndGuide/V1/index.html"
       },
