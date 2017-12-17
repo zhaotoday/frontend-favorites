@@ -3,6 +3,10 @@
     "title": "待归类",
     "items": [
       {
+        "title": "前端开发者指南（2017）",
+        "url": "https://github.com/xitu/front-end-handbook-2017"
+      },
+      {
         "title": "如何通过饿了么 Node.js 面试",
         "url": "https://elemefe.github.io/node-interview/#/sections/zh-cn/"
       },
