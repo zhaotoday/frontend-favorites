@@ -3,6 +3,10 @@
     "title": "待归类",
     "items": [
       {
+        "title": "前端导航",
+        "url": "https://luuman.github.io/FrontEndGuide/V1/index.html"
+      },
+      {
         "title": "Web 前端导航",
         "url": "http://guide.500lines.cc/"
       },
