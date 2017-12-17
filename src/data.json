@@ -3,6 +3,10 @@
     "title": "待归类",
     "items": [
       {
+        "title": "Web 前端导航",
+        "url": "http://guide.500lines.cc/"
+      },
+      {
         "title": "前端开发者指南（2017）",
         "url": "https://github.com/xitu/front-end-handbook-2017"
       },
