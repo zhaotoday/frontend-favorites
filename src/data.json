@@ -3,6 +3,10 @@
     "title": "待归类",
     "items": [
       {
+        "title": "ES6 备忘单",
+        "url": "https://github.com/DrkSephy/es6-cheatsheet/blob/master/README_zhCn.md"
+      },
+      {
         "title": "技术胖博客",
         "url": "http://jspang.com/"
       },
