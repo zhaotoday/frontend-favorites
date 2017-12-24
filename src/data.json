@@ -3,6 +3,10 @@
     "title": "待归类",
     "items": [
       {
+        "title": "前端开发规范手册",
+        "url": "http://zhibimo.com/read/Ashu/front-end-style-guide/index.html"
+      },
+      {
         "title": "ES6 备忘单",
         "url": "https://github.com/DrkSephy/es6-cheatsheet/blob/master/README_zhCn.md"
       },
