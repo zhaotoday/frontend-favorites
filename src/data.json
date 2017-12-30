@@ -3,6 +3,10 @@
     "title": "待归类",
     "items": [
       {
+        "title": "截图工具",
+        "url": "https://snag.gy/"
+      },
+      {
         "title": "项目规范",
         "url": "https://github.com/wearehive/project-guidelines/blob/master/README-zh.md"
       },
