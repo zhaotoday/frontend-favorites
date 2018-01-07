@@ -2,70 +2,6 @@
   {
     "title": "待归类",
     "items": [
-      {
-        "title": "截图工具",
-        "url": "https://snag.gy/"
-      },
-      {
-        "title": "项目规范",
-        "url": "https://github.com/wearehive/project-guidelines/blob/master/README-zh.md"
-      },
-      {
-        "title": "前端开发规范手册",
-        "url": "http://zhibimo.com/read/Ashu/front-end-style-guide/index.html"
-      },
-      {
-        "title": "ES6 备忘单",
-        "url": "https://github.com/DrkSephy/es6-cheatsheet/blob/master/README_zhCn.md"
-      },
-      {
-        "title": "技术胖博客",
-        "url": "http://jspang.com/"
-      },
-      {
-        "title": "印记中文",
-        "url": "https://docschina.org/"
-      },
-      {
-        "title": "创造师导航",
-        "url": "http://chuangzaoshi.com/index"
-      },
-      {
-        "title": "前端导航",
-        "url": "https://luuman.github.io/FrontEndGuideV2/FrontEndGuide/#/Index"
-      },
-      {
-        "title": "Web 前端导航",
-        "url": "http://guide.500lines.cc/"
-      },
-      {
-        "title": "前端开发者指南（2017）",
-        "url": "https://github.com/xitu/front-end-handbook-2017"
-      },
-      {
-        "title": "如何通过饿了么 Node.js 面试",
-        "url": "https://elemefe.github.io/node-interview/#/sections/zh-cn/"
-      },
-      {
-        "title": "ES6 控制台",
-        "url": "https://es6console.com/"
-      },
-      {
-        "title": "麦子学院",
-        "url": "http://www.maiziedu.com/"
-      },
-      {
-        "title": "百度传课",
-        "url": "https://chuanke.baidu.com/"
-      },
-      {
-        "title": "统计报告",
-        "url": "http://gs.statcounter.com/"
-      },
-      {
-        "title": "百记",
-        "url": "https://baiji.baidu.com/"
-      }
     ]
   },
   {
@@ -193,6 +129,14 @@
     "title": "规范",
     "items": [
       {
+        "title": "项目规范",
+        "url": "https://github.com/wearehive/project-guidelines/blob/master/README-zh.md"
+      },
+      {
+        "title": "前端开发规范手册",
+        "url": "http://zhibimo.com/read/Ashu/front-end-style-guide/index.html"
+      },
+      {
         "title": "GitBook Design Styleguide",
         "url": "http://styleguide.gitbook.com/"
       },
@@ -209,6 +153,18 @@
   {
     "title": "视频学习网站",
     "items": [
+      {
+        "title": "技术胖博客",
+        "url": "http://jspang.com/"
+      },
+      {
+        "title": "麦子学院",
+        "url": "http://www.maiziedu.com/"
+      },
+      {
+        "title": "百度传课",
+        "url": "https://chuanke.baidu.com/"
+      },
       {
         "title": "慕课网",
         "url": "http://www.imooc.com/"
@@ -246,6 +202,22 @@
   {
     "title": "工具",
     "items": [
+      {
+        "title": "ES6 控制台",
+        "url": "https://es6console.com/"
+      },
+      {
+        "title": "统计报告",
+        "url": "http://gs.statcounter.com/"
+      },
+      {
+        "title": "百记",
+        "url": "https://baiji.baidu.com/"
+      },
+      {
+        "title": "截图工具",
+        "url": "https://snag.gy/"
+      },
       {
         "title": "npm 包搜索工具",
         "url": "https://npms.io/"
@@ -419,6 +391,10 @@
   {
     "title": "手册",
     "items": [
+      {
+        "title": "ES6 备忘单",
+        "url": "https://github.com/DrkSephy/es6-cheatsheet/blob/master/README_zhCn.md"
+      },
       {
         "title": "事件类型一览表",
         "url": "https://developer.mozilla.org/zh-CN/docs/Web/Events"
@@ -601,6 +577,14 @@
     "title": "指南",
     "items": [
       {
+        "title": "前端开发者指南（2017）",
+        "url": "https://github.com/xitu/front-end-handbook-2017"
+      },
+      {
+        "title": "如何通过饿了么 Node.js 面试",
+        "url": "https://elemefe.github.io/node-interview/#/sections/zh-cn/"
+      },
+      {
         "title": "网页字体排印指南",
         "url": "http://aaaaaashu.me/shu/"
       },
@@ -731,6 +715,22 @@
   {
     "title": "网址导航",
     "items": [
+      {
+        "title": "印记中文",
+        "url": "https://docschina.org/"
+      },
+      {
+        "title": "创造师导航",
+        "url": "http://chuangzaoshi.com/index"
+      },
+      {
+        "title": "Web 前端导航",
+        "url": "http://guide.500lines.cc/"
+      },
+      {
+        "title": "前端导航",
+        "url": "https://luuman.github.io/FrontEndGuideV2/FrontEndGuide/#/Index"
+      },
       {
         "title": "我的索引",
         "url": "http://www.51index.cn/"
