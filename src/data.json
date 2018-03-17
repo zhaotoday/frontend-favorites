@@ -3,6 +3,10 @@
     "title": "待归类",
     "items": [
       {
+        "title": "菜鸟工具",
+        "url": "https://c.runoob.com"
+      },
+      {
         "title": "JavaScript 明星项目",
         "url": "https://risingstars.js.org/2017/zh/"
       },
