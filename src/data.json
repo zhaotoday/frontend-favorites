@@ -3,6 +3,10 @@
     "title": "待归类",
     "items": [
       {
+        "title": "阿里云大学",
+        "url": "https://edu.aliyun.com/developer"
+      },
+      {
         "title": "前端开发者指南 2018",
         "url": "https://legacy.gitbook.com/book/leviding/front-end-handbook-2018/details"
       },
