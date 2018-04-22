@@ -3,6 +3,10 @@
     "title": "待归类",
     "items": [
       {
+        "title": "FontEditor",
+        "url": "http://fontstore.baidu.com/static/editor/index.html"
+      },
+      {
         "title": "ESLint",
         "url": "https://cn.eslint.org/"
       },
