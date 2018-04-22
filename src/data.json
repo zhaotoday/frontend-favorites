@@ -3,6 +3,10 @@
     "title": "待归类",
     "items": [
       {
+        "title": "JSON 在线解析",
+        "url": "http://json.awesomes.cn"
+      },
+      {
         "title": "FontEditor",
         "url": "http://fontstore.baidu.com/static/editor/index.html"
       },
