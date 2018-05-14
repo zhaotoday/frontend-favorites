@@ -3,6 +3,10 @@
     "title": "待归类",
     "items": [
       {
+        "title": "牛客网",
+        "url": "https://www.nowcoder.com"
+      },
+      {
         "title": "JSON 在线解析",
         "url": "http://json.awesomes.cn"
       },
