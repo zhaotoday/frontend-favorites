@@ -255,6 +255,10 @@
     "title": "工具",
     "items": [
       {
+        "title": "轻松玩转 PDF",
+        "url": "https://smallpdf.com/cn"
+      },
+      {
         "title": "ES6 控制台",
         "url": "https://es6console.com/"
       },
