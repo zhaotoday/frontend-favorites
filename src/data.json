@@ -206,6 +206,10 @@
     "title": "视频学习网站",
     "items": [
       {
+        "title": "iKcamp",
+        "url": "https://www.ikcamp.com/"
+      },
+      {
         "title": "技术胖博客",
         "url": "http://jspang.com/"
       },
@@ -254,6 +258,10 @@
   {
     "title": "工具",
     "items": [
+      {
+        "title": "Process on - 免费在线作图，实时协作",
+        "url": "https://www.processon.com/"
+      },
       {
         "title": "Chrome 商店 crx 离线安装包下载",
         "url": "http://yurl.sinaapp.com/crx.php"
@@ -820,6 +828,10 @@
   {
     "title": "其他",
     "items": [
+      {
+        "title": "云主机优惠小铺",
+        "url": "https://yunzhuji.shop/"
+      },
       {
         "title": "中文网页重设与排版：typo.css",
         "url": "http://typo.sofi.sh/"
