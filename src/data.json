@@ -259,6 +259,18 @@
     "title": "工具",
     "items": [
       {
+        "title": "PX Cook",
+        "url": "http://www.fancynode.com.cn/pxcook"
+      },
+      {
+        "title": "Eagle - 设计师图片管理工具",
+        "url": "https://cn.eagle.cool/"
+      },
+      {
+        "title": "觅元素",
+        "url": "http://www.51yuansu.com/"
+      },
+      {
         "title": "Process on - 免费在线作图，实时协作",
         "url": "https://www.processon.com/"
       },
@@ -787,6 +799,18 @@
   {
     "title": "网址导航",
     "items": [
+      {
+        "title": "设计师网址导航",
+        "url": "https://hao.uisdc.com/"
+      },
+      {
+        "title": "Start Me",
+        "url": "https://start.me/cn"
+      },
+      {
+        "title": "UI 设计师导航",
+        "url": "http://so.uigreat.com/"
+      },
       {
         "title": "印记中文",
         "url": "https://docschina.org/"
